@@ -1,67 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_choice action="INSERT_OR_UPDATE" field="flag" table="x_snc_ship_registr_shipregistry" version="3">
+    <sys_choice action="INSERT_OR_UPDATE" field="me_maker" table="x_snc_ship_registr_shipregistry" version="3">
         <sys_choice_set action="INSERT_OR_UPDATE">
-            <element>flag</element>
+            <element>me_maker</element>
             <name>x_snc_ship_registr_shipregistry</name>
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2024-02-05 11:56:47</sys_created_on>
-            <sys_id>39401663db0c421084f49c1bd396193e</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>flag</sys_name>
+            <sys_name>me_maker</sys_name>
             <sys_package display_value="Ship Registry" source="x_snc_ship_registr">a0b8862bdbc8421084f49c1bd39619d3</sys_package>
             <sys_policy/>
             <sys_scope display_value="Ship Registry">a0b8862bdbc8421084f49c1bd39619d3</sys_scope>
-            <sys_update_name>sys_choice_x_snc_ship_registr_shipregistry_flag</sys_update_name>
+            <sys_update_name>sys_choice_x_snc_ship_registr_shipregistry_me_maker</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2024-02-05 11:56:47</sys_updated_on>
         </sys_choice_set>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
-            <element>flag</element>
+            <element>me_maker</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Cyprus</label>
-            <language>en</language>
-            <name>x_snc_ship_registr_shipregistry</name>
-            <sequence>10</sequence>
-            <synonyms/>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-02-05 14:17:14</sys_created_on>
-            <sys_domain>774190f01f1310005a3637b8ec8b70ef</sys_domain>
-            <sys_domain_path>!!!/</sys_domain_path>
-            <sys_id>5e50b6a3db8c421084f49c1bd3961977</sys_id>
-            <sys_mod_count>2</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-02-05 14:18:40</sys_updated_on>
-            <value>Cyprus</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>flag</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>Liberia</label>
-            <language>en</language>
-            <name>x_snc_ship_registr_shipregistry</name>
-            <sequence>20</sequence>
-            <synonyms/>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-02-05 11:56:47</sys_created_on>
-            <sys_domain>774190f01f1310005a3637b8ec8b70ef</sys_domain>
-            <sys_domain_path>!!!/</sys_domain_path>
-            <sys_id>c2401663db0c421084f49c1bd396195c</sys_id>
-            <sys_mod_count>1</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-02-05 14:17:51</sys_updated_on>
-            <value>Liberia</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>flag</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>Marshall Islands</label>
+            <label>MAN B&amp;W</label>
             <language>en</language>
             <name>x_snc_ship_registr_shipregistry</name>
             <sequence>30</sequence>
@@ -70,38 +29,36 @@
             <sys_created_on>2024-02-05 11:56:47</sys_created_on>
             <sys_domain>774190f01f1310005a3637b8ec8b70ef</sys_domain>
             <sys_domain_path>!!!/</sys_domain_path>
-            <sys_id>b5401663db0c421084f49c1bd396190c</sys_id>
             <sys_mod_count>1</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-02-05 14:17:48</sys_updated_on>
-            <value>Marshall Islands</value>
+            <sys_updated_on>2024-02-05 14:26:50</sys_updated_on>
+            <value>MAN B&amp;W</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
-            <element>flag</element>
+            <element>me_maker</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Singapore</label>
+            <label>MAN (Hyuindai)</label>
             <language>en</language>
             <name>x_snc_ship_registr_shipregistry</name>
             <sequence>40</sequence>
             <synonyms/>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-02-05 11:56:47</sys_created_on>
+            <sys_created_on>2024-02-05 14:26:22</sys_created_on>
             <sys_domain>774190f01f1310005a3637b8ec8b70ef</sys_domain>
             <sys_domain_path>!!!/</sys_domain_path>
-            <sys_id>86401663db0c421084f49c1bd396194c</sys_id>
             <sys_mod_count>1</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-02-05 14:18:02</sys_updated_on>
-            <value>Singapore</value>
+            <sys_updated_on>2024-02-05 14:27:41</sys_updated_on>
+            <value>MAN (Hyuindai)</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
-            <element>flag</element>
+            <element>me_maker</element>
             <hint/>
             <inactive>false</inactive>
-            <label>?</label>
+            <label>QMD Wartsila</label>
             <language>en</language>
             <name>x_snc_ship_registr_shipregistry</name>
             <sequence>50</sequence>
@@ -110,10 +67,47 @@
             <sys_created_on>2024-02-05 11:56:48</sys_created_on>
             <sys_domain>774190f01f1310005a3637b8ec8b70ef</sys_domain>
             <sys_domain_path>!!!/</sys_domain_path>
-            <sys_id>52401663db0c421084f49c1bd3961978</sys_id>
             <sys_mod_count>1</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-02-05 14:18:23</sys_updated_on>
+            <sys_updated_on>2024-02-05 14:26:56</sys_updated_on>
+            <value>QMD Wartsila</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>me_maker</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Sulzer Wartsila</label>
+            <language>en</language>
+            <name>x_snc_ship_registr_shipregistry</name>
+            <sequence>60</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-05 11:56:47</sys_created_on>
+            <sys_domain>774190f01f1310005a3637b8ec8b70ef</sys_domain>
+            <sys_domain_path>!!!/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-05 14:27:01</sys_updated_on>
+            <value>Sulzer Wartsila</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>me_maker</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>?</label>
+            <language>en</language>
+            <name>x_snc_ship_registr_shipregistry</name>
+            <sequence>70</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-05 11:56:48</sys_created_on>
+            <sys_domain>774190f01f1310005a3637b8ec8b70ef</sys_domain>
+            <sys_domain_path>!!!/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-05 14:27:09</sys_updated_on>
             <value>?</value>
         </sys_choice>
     </sys_choice>

@@ -6,7 +6,6 @@
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2024-02-05 11:56:47</sys_created_on>
-            <sys_id>8a401663db0c421084f49c1bd3961949</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>cargo_cranesmaker</sys_name>
             <sys_package display_value="Ship Registry" source="x_snc_ship_registr">a0b8862bdbc8421084f49c1bd39619d3</sys_package>
@@ -30,7 +29,6 @@
             <sys_created_on>2024-02-05 11:56:47</sys_created_on>
             <sys_domain>774190f01f1310005a3637b8ec8b70ef</sys_domain>
             <sys_domain_path>!!!/</sys_domain_path>
-            <sys_id>06401663db0c421084f49c1bd3961959</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2024-02-05 11:56:47</sys_updated_on>
@@ -50,7 +48,6 @@
             <sys_created_on>2024-02-05 11:56:47</sys_created_on>
             <sys_domain>774190f01f1310005a3637b8ec8b70ef</sys_domain>
             <sys_domain_path>!!!/</sys_domain_path>
-            <sys_id>06401663db0c421084f49c1bd3961949</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2024-02-05 11:56:47</sys_updated_on>
