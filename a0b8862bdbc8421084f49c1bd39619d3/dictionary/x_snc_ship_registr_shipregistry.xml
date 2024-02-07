@@ -3,10 +3,15 @@
         <element label="Active" max_length="40" name="active" type="boolean"/>
         <element label="BOA (m)" max_length="15" name="boa_m" type="decimal"/>
         <element attributes="edge_encryption_enabled=true" label="Call Sign" max_length="40" name="call_sign" type="string"/>
+        <element label="Captain" max_length="255" name="captain" type="string_full_utf8"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Cargo CranesMaker" max_length="40" name="cargo_cranesmaker" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Cargo Pumps - Framo System" sequence="0" value="Cargo Pumps - Framo System"/>
+                <element inactive_on_update="false" label="Cargo Pumps - Framo System" sequence="0" value="Cargo Pumps - Framo System"/>
+                <element inactive_on_update="false" label="Cargo Pumps - Framo System" sequence="0" value="Cargo Pumps - Framo System"/>
                 <element inactive_on_update="false" label="Neuenfelder Maschinenfabrik (NMF) GmbH" sequence="0" value="Neuenfelder Maschinenfabrik (NMF) GmbH"/>
+                <element inactive_on_update="false" label="Neuenfelder Maschinenfabrik (NMF) GmbH" sequence="1" value="Neuenfelder Maschinenfabrik (NMF) GmbH"/>
+                <element inactive_on_update="false" label="Neuenfelder Maschinenfabrik (NMF) GmbH" sequence="1" value="Neuenfelder Maschinenfabrik (NMF) GmbH"/>
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" label="Cargo Cranes SWL (mt)" max_length="47" name="cargo_cranes_swl_mt" type="string"/>
@@ -14,14 +19,32 @@
         <element attributes="edge_encryption_enabled=true" choice="1" label="Country of build" max_length="40" name="country_of_build" type="choice">
             <choice>
                 <element inactive_on_update="false" label="?" sequence="0" value="?"/>
+                <element inactive_on_update="false" label="?" sequence="0" value="?"/>
+                <element inactive_on_update="false" label="?" sequence="0" value="?"/>
                 <element inactive_on_update="false" label="China" sequence="0" value="China"/>
                 <element inactive_on_update="false" label="Japan" sequence="0" value="Japan"/>
                 <element inactive_on_update="false" label="South Korea" sequence="0" value="South Korea"/>
+                <element inactive_on_update="false" label="China" sequence="1" value="China"/>
+                <element inactive_on_update="false" label="China" sequence="1" value="China"/>
+                <element inactive_on_update="false" label="Japan" sequence="2" value="Japan"/>
+                <element inactive_on_update="false" label="Japan" sequence="2" value="Japan"/>
+                <element inactive_on_update="false" label="South Korea" sequence="3" value="South Korea"/>
+                <element inactive_on_update="false" label="South Korea" sequence="3" value="South Korea"/>
             </choice>
         </element>
         <element label="DW (m)" max_length="15" name="dw_m" type="decimal"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Flag" max_length="40" name="flag" type="choice">
             <choice>
+                <element inactive_on_update="false" label="Cyprus" sequence="0" value="Cyprus"/>
+                <element inactive_on_update="false" label="Cyprus" sequence="0" value="Cyprus"/>
+                <element inactive_on_update="false" label="Liberia" sequence="1" value="Liberia"/>
+                <element inactive_on_update="false" label="Liberia" sequence="1" value="Liberia"/>
+                <element inactive_on_update="false" label="Marshall Islands" sequence="2" value="Marshall Islands"/>
+                <element inactive_on_update="false" label="Marshall Islands" sequence="2" value="Marshall Islands"/>
+                <element inactive_on_update="false" label="Singapore" sequence="3" value="Singapore"/>
+                <element inactive_on_update="false" label="Singapore" sequence="3" value="Singapore"/>
+                <element inactive_on_update="false" label="?" sequence="4" value="?"/>
+                <element inactive_on_update="false" label="?" sequence="4" value="?"/>
                 <element inactive_on_update="false" label="Cyprus" sequence="10" value="Cyprus"/>
                 <element inactive_on_update="false" label="Liberia" sequence="20" value="Liberia"/>
                 <element inactive_on_update="false" label="Marshall Islands" sequence="30" value="Marshall Islands"/>
@@ -35,6 +58,16 @@
         <element label="LOA (m)" max_length="15" name="loa_m" type="decimal"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="ME Maker" max_length="40" name="me_maker" type="choice">
             <choice>
+                <element inactive_on_update="false" label="MAN B&amp;W" sequence="0" value="MAN B&amp;W"/>
+                <element inactive_on_update="false" label="MAN B&amp;W" sequence="0" value="MAN B&amp;W"/>
+                <element inactive_on_update="false" label="MAN (Hyuindai)" sequence="1" value="MAN (Hyuindai)"/>
+                <element inactive_on_update="false" label="MAN (Hyuindai)" sequence="1" value="MAN (Hyuindai)"/>
+                <element inactive_on_update="false" label="QMD Wartsila" sequence="2" value="QMD Wartsila"/>
+                <element inactive_on_update="false" label="QMD Wartsila" sequence="2" value="QMD Wartsila"/>
+                <element inactive_on_update="false" label="Sulzer Wartsila" sequence="3" value="Sulzer Wartsila"/>
+                <element inactive_on_update="false" label="Sulzer Wartsila" sequence="3" value="Sulzer Wartsila"/>
+                <element inactive_on_update="false" label="?" sequence="4" value="?"/>
+                <element inactive_on_update="false" label="?" sequence="4" value="?"/>
                 <element inactive_on_update="false" label="MAN B&amp;W" sequence="30" value="MAN B&amp;W"/>
                 <element inactive_on_update="false" label="MAN (Hyuindai)" sequence="40" value="MAN (Hyuindai)"/>
                 <element inactive_on_update="false" label="QMD Wartsila" sequence="50" value="QMD Wartsila"/>
@@ -49,6 +82,16 @@
         <element label="NRT (rt)" max_length="40" name="nrt_rt" type="integer"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Port of Registry" max_length="40" name="port_of_registry" type="choice">
             <choice>
+                <element inactive_on_update="false" label="Limassol" sequence="0" value="Limassol"/>
+                <element inactive_on_update="false" label="Limassol" sequence="0" value="Limassol"/>
+                <element inactive_on_update="false" label="Majuro" sequence="1" value="Majuro"/>
+                <element inactive_on_update="false" label="Majuro" sequence="1" value="Majuro"/>
+                <element inactive_on_update="false" label="Monrovia" sequence="2" value="Monrovia"/>
+                <element inactive_on_update="false" label="Monrovia" sequence="2" value="Monrovia"/>
+                <element inactive_on_update="false" label="Singapore" sequence="3" value="Singapore"/>
+                <element inactive_on_update="false" label="Singapore" sequence="3" value="Singapore"/>
+                <element inactive_on_update="false" label="?" sequence="4" value="?"/>
+                <element inactive_on_update="false" label="?" sequence="4" value="?"/>
                 <element inactive_on_update="false" label="Limassol" sequence="10" value="Limassol"/>
                 <element inactive_on_update="false" label="Majuro" sequence="20" value="Majuro"/>
                 <element inactive_on_update="false" label="Monrovia" sequence="30" value="Monrovia"/>
@@ -59,6 +102,7 @@
         <element label="Power kW" max_length="40" name="power_kw" type="integer"/>
         <element label="Domain" max_length="32" name="sys_domain" type="domain_id"/>
         <element attributes="case_sensitive=true" label="Domain Path" max_length="255" name="sys_domain_path" type="domain_path"/>
+        <element label="URL" max_length="80" name="url" type="url"/>
         <element attributes="edge_encryption_enabled=true" label="Vessel type" max_length="40" name="vessel_type" type="string"/>
         <element attributes="format=none" label="Year of build" max_length="40" name="year_of_build" type="integer"/>
         <index name="index">

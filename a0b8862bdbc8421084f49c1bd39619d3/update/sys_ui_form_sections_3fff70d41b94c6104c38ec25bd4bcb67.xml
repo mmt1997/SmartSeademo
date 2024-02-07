@@ -1,93 +1,93 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_ui_form_sections form_id="e51dc26fdbc8421084f49c1bd39619d8" sys_domain="774190f01f1310005a3637b8ec8b70ef" table="x_snc_ship_registr_shipregistry" version="3">
+    <sys_ui_form_sections form_id="3fff70d41b94c6104c38ec25bd4bcb67" sys_domain="a086dbe2db08821084f49c1bd3961970" table="x_snc_ship_registr_shipregistry" version="3">
         <sys_ui_form_section action="INSERT_OR_UPDATE">
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-02-05 11:42:51</sys_created_on>
+            <sys_created_on>2024-02-07 14:01:28</sys_created_on>
             <sys_domain>774190f01f1310005a3637b8ec8b70ef</sys_domain>
             <sys_domain_path>!!!/</sys_domain_path>
-            <sys_id>b91dc26fdbc8421084f49c1bd39619dc</sys_id>
+            <sys_id>77ff70d41b94c6104c38ec25bd4bcb78</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
-            <sys_ui_form display_value="x_snc_ship_registr_shipregistry" name="x_snc_ship_registr_shipregistry" sys_domain="774190f01f1310005a3637b8ec8b70ef" view="Default view">e51dc26fdbc8421084f49c1bd39619d8</sys_ui_form>
-            <sys_ui_section caption="Basic Information" display_value="Basic Information" name="x_snc_ship_registr_shipregistry" sys_domain="774190f01f1310005a3637b8ec8b70ef" view="Default view">611dc26fdbc8421084f49c1bd39619d5</sys_ui_section>
+            <sys_ui_form display_value="x_snc_ship_registr_shipregistry" name="x_snc_ship_registr_shipregistry" sys_domain="a086dbe2db08821084f49c1bd3961970" view="Default view">3fff70d41b94c6104c38ec25bd4bcb67</sys_ui_form>
+            <sys_ui_section caption="Basic Information" display_value="Basic Information" name="x_snc_ship_registr_shipregistry" sys_domain="a086dbe2db08821084f49c1bd3961970" view="Default view">37ff70d41b94c6104c38ec25bd4bcb66</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-02-05 11:42:51</sys_updated_on>
+            <sys_updated_on>2024-02-07 14:01:28</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form_section action="INSERT_OR_UPDATE">
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-02-05 11:44:16</sys_created_on>
+            <sys_created_on>2024-02-07 14:01:28</sys_created_on>
             <sys_domain>774190f01f1310005a3637b8ec8b70ef</sys_domain>
             <sys_domain_path>!!!/</sys_domain_path>
-            <sys_id>7e6d4a6fdbc8421084f49c1bd3961909</sys_id>
-            <sys_mod_count>1</sys_mod_count>
+            <sys_id>73ff70d41b94c6104c38ec25bd4bcb78</sys_id>
+            <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
-            <sys_ui_form display_value="x_snc_ship_registr_shipregistry" name="x_snc_ship_registr_shipregistry" sys_domain="774190f01f1310005a3637b8ec8b70ef" view="Default view">e51dc26fdbc8421084f49c1bd39619d8</sys_ui_form>
+            <sys_ui_form display_value="x_snc_ship_registr_shipregistry" name="x_snc_ship_registr_shipregistry" sys_domain="a086dbe2db08821084f49c1bd3961970" view="Default view">3fff70d41b94c6104c38ec25bd4bcb67</sys_ui_form>
             <sys_ui_section caption="Power plant" display_value="Power plant" name="x_snc_ship_registr_shipregistry" sys_domain="774190f01f1310005a3637b8ec8b70ef" view="Default view">666d0a6fdbc8421084f49c1bd39619ef</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-02-05 11:44:16</sys_updated_on>
+            <sys_updated_on>2024-02-07 14:01:28</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form_section action="INSERT_OR_UPDATE">
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-02-05 11:42:51</sys_created_on>
+            <sys_created_on>2024-02-07 14:01:28</sys_created_on>
             <sys_domain>774190f01f1310005a3637b8ec8b70ef</sys_domain>
             <sys_domain_path>!!!/</sys_domain_path>
-            <sys_id>7d1dc26fdbc8421084f49c1bd39619dd</sys_id>
-            <sys_mod_count>1</sys_mod_count>
+            <sys_id>ffff70d41b94c6104c38ec25bd4bcb77</sys_id>
+            <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
-            <sys_ui_form display_value="x_snc_ship_registr_shipregistry" name="x_snc_ship_registr_shipregistry" sys_domain="774190f01f1310005a3637b8ec8b70ef" view="Default view">e51dc26fdbc8421084f49c1bd39619d8</sys_ui_form>
+            <sys_ui_form display_value="x_snc_ship_registr_shipregistry" name="x_snc_ship_registr_shipregistry" sys_domain="a086dbe2db08821084f49c1bd3961970" view="Default view">3fff70d41b94c6104c38ec25bd4bcb67</sys_ui_form>
             <sys_ui_section caption="Geo Information" display_value="Geo Information" name="x_snc_ship_registr_shipregistry" sys_domain="774190f01f1310005a3637b8ec8b70ef" view="Default view">ad1dc26fdbc8421084f49c1bd39619d5</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-02-05 11:44:16</sys_updated_on>
+            <sys_updated_on>2024-02-07 14:01:28</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form_section action="INSERT_OR_UPDATE">
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-02-05 11:42:51</sys_created_on>
+            <sys_created_on>2024-02-07 14:01:28</sys_created_on>
             <sys_domain>774190f01f1310005a3637b8ec8b70ef</sys_domain>
             <sys_domain_path>!!!/</sys_domain_path>
-            <sys_id>8e1dc26fdbc8421084f49c1bd39619ee</sys_id>
-            <sys_mod_count>1</sys_mod_count>
+            <sys_id>f3ff70d41b94c6104c38ec25bd4bcb78</sys_id>
+            <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
-            <sys_ui_form display_value="x_snc_ship_registr_shipregistry" name="x_snc_ship_registr_shipregistry" sys_domain="774190f01f1310005a3637b8ec8b70ef" view="Default view">e51dc26fdbc8421084f49c1bd39619d8</sys_ui_form>
+            <sys_ui_form display_value="x_snc_ship_registr_shipregistry" name="x_snc_ship_registr_shipregistry" sys_domain="a086dbe2db08821084f49c1bd3961970" view="Default view">3fff70d41b94c6104c38ec25bd4bcb67</sys_ui_form>
             <sys_ui_section caption="Dimensions" display_value="Dimensions" name="x_snc_ship_registr_shipregistry" sys_domain="774190f01f1310005a3637b8ec8b70ef" view="Default view">a91dc26fdbc8421084f49c1bd39619d6</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-02-05 11:44:16</sys_updated_on>
+            <sys_updated_on>2024-02-07 14:01:28</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form_section action="INSERT_OR_UPDATE">
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-02-05 11:42:52</sys_created_on>
+            <sys_created_on>2024-02-07 14:01:28</sys_created_on>
             <sys_domain>774190f01f1310005a3637b8ec8b70ef</sys_domain>
             <sys_domain_path>!!!/</sys_domain_path>
-            <sys_id>0e1dc26fdbc8421084f49c1bd39619f3</sys_id>
-            <sys_mod_count>1</sys_mod_count>
+            <sys_id>f7ff70d41b94c6104c38ec25bd4bcb77</sys_id>
+            <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
-            <sys_ui_form display_value="x_snc_ship_registr_shipregistry" name="x_snc_ship_registr_shipregistry" sys_domain="774190f01f1310005a3637b8ec8b70ef" view="Default view">e51dc26fdbc8421084f49c1bd39619d8</sys_ui_form>
+            <sys_ui_form display_value="x_snc_ship_registr_shipregistry" name="x_snc_ship_registr_shipregistry" sys_domain="a086dbe2db08821084f49c1bd3961970" view="Default view">3fff70d41b94c6104c38ec25bd4bcb67</sys_ui_form>
             <sys_ui_section caption="Cranes" display_value="Cranes" name="x_snc_ship_registr_shipregistry" sys_domain="774190f01f1310005a3637b8ec8b70ef" view="Default view">a51dc26fdbc8421084f49c1bd39619d7</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-02-05 11:44:16</sys_updated_on>
+            <sys_updated_on>2024-02-07 14:01:28</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_snc_ship_registr_shipregistry</name>
             <roles/>
             <sys_class_name>sys_ui_form</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-02-05 11:42:50</sys_created_on>
-            <sys_domain>774190f01f1310005a3637b8ec8b70ef</sys_domain>
-            <sys_domain_path>!!!/</sys_domain_path>
-            <sys_id>e51dc26fdbc8421084f49c1bd39619d8</sys_id>
+            <sys_created_on>2024-02-07 14:01:27</sys_created_on>
+            <sys_domain>a086dbe2db08821084f49c1bd3961970</sys_domain>
+            <sys_domain_path>!!!/!!$/</sys_domain_path>
+            <sys_id>3fff70d41b94c6104c38ec25bd4bcb67</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_snc_ship_registr_shipregistry</sys_name>
-            <sys_overrides/>
+            <sys_overrides display_value="x_snc_ship_registr_shipregistry" name="x_snc_ship_registr_shipregistry" sys_domain="774190f01f1310005a3637b8ec8b70ef" view="Default view">e51dc26fdbc8421084f49c1bd39619d8</sys_overrides>
             <sys_package display_value="Ship Registry" source="x_snc_ship_registr">a0b8862bdbc8421084f49c1bd39619d3</sys_package>
             <sys_policy/>
             <sys_scope display_value="Ship Registry">a0b8862bdbc8421084f49c1bd39619d3</sys_scope>
-            <sys_update_name>sys_ui_form_sections_e51dc26fdbc8421084f49c1bd39619d8</sys_update_name>
+            <sys_update_name>sys_ui_form_sections_3fff70d41b94c6104c38ec25bd4bcb67</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-02-05 11:42:50</sys_updated_on>
+            <sys_updated_on>2024-02-07 14:01:27</sys_updated_on>
             <sys_user/>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>

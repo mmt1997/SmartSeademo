@@ -26,6 +26,82 @@
             <sequence>0</sequence>
             <synonyms/>
             <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-07 11:31:19</sys_created_on>
+            <sys_domain>62461f26db08821084f49c1bd3961985</sys_domain>
+            <sys_domain_path>!!!/!!#/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-07 11:31:19</sys_updated_on>
+            <value>Cargo Pumps - Framo System</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>cargo_cranesmaker</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Neuenfelder Maschinenfabrik (NMF) GmbH</label>
+            <language>en</language>
+            <name>x_snc_ship_registr_shipregistry</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-07 11:31:19</sys_created_on>
+            <sys_domain>62461f26db08821084f49c1bd3961985</sys_domain>
+            <sys_domain_path>!!!/!!#/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-07 11:31:19</sys_updated_on>
+            <value>Neuenfelder Maschinenfabrik (NMF) GmbH</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>cargo_cranesmaker</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Cargo Pumps - Framo System</label>
+            <language>en</language>
+            <name>x_snc_ship_registr_shipregistry</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-07 14:01:32</sys_created_on>
+            <sys_domain>a086dbe2db08821084f49c1bd3961970</sys_domain>
+            <sys_domain_path>!!!/!!$/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-07 14:01:32</sys_updated_on>
+            <value>Cargo Pumps - Framo System</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>cargo_cranesmaker</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Neuenfelder Maschinenfabrik (NMF) GmbH</label>
+            <language>en</language>
+            <name>x_snc_ship_registr_shipregistry</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-07 14:01:32</sys_created_on>
+            <sys_domain>a086dbe2db08821084f49c1bd3961970</sys_domain>
+            <sys_domain_path>!!!/!!$/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-07 14:01:32</sys_updated_on>
+            <value>Neuenfelder Maschinenfabrik (NMF) GmbH</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>cargo_cranesmaker</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Cargo Pumps - Framo System</label>
+            <language>en</language>
+            <name>x_snc_ship_registr_shipregistry</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
             <sys_created_on>2024-02-05 11:56:47</sys_created_on>
             <sys_domain>774190f01f1310005a3637b8ec8b70ef</sys_domain>
             <sys_domain_path>!!!/</sys_domain_path>
