@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>script</condition_type>
+        <description/>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>Popular Items Data Item</name>
+        <offline_query_condition/>
+        <offline_query_condition_script/>
+        <query_condition/>
+        <query_condition_script><![CDATA[(function getQueryString(input) {
+  //  "department=" + inputs.department +"^requested_item.in_stock>0"
+  //  var queryString = "in_stock>0";
+//   var deptID = gs.getUser().getDepartmentID();
+ //  gs.info(deptID);
+   //var gr = new GlideRecord('x_snc_mikes2_inventory_request');
+  // gr.addActiveQuery();
+//   gr.setLimit(5);
+  // gr.query();
+  // gs.info("Count of Requests "+gr.getRowCount());
+  var deptID = '';
+var users = new GlideRecord('sys_user');
+if(users.get(gs.getUserID())){
+deptID = users.department;
+}
+var items = [];
+var requestAgg = new GlideAggregate('x_snc_mikes2_inventory_request');
+requestAgg.addQuery('department',deptID);
+requestAgg.addAggregate('COUNT', 'requested_item');
+requestAgg.orderByAggregate('COUNT', 'requested_item');
+requestAgg.setLimit(4);
+requestAgg.query();
+while (requestAgg.next()) {
+var incidentCount = requestAgg.getAggregate('COUNT', 'requested_item');
+items.push(requestAgg.requested_item.toString());
+}
+gs.info("sysids "+items);
+var queryStr = "sys_idIN"+items;
+    return queryStr; 
+})(input);]]></query_condition_script>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-07 14:24:33</sys_created_on>
+        <sys_id>e445499ce9d8c210d78f88bd443f5366</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Popular Items Data Item</sys_name>
+        <sys_package display_value="mikes2" source="x_snc_mikes2">4845099c5bd8c2105064728df7b8dc6e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="mikes2">4845099c5bd8c2105064728df7b8dc6e</sys_scope>
+        <sys_update_name>sys_sg_data_item_e445499ce9d8c210d78f88bd443f5366</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-07 14:24:33</sys_updated_on>
+        <table>x_snc_mikes2_inventory_control</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=e445499ce9d8c210d78f88bd443f5366"/>
+</record_update>

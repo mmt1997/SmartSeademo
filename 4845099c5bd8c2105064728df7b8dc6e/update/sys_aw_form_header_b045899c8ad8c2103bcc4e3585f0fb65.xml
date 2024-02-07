@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_aw_form_header">
+    <sys_aw_form_header action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <header_image/>
+        <hide_tags>true</hide_tags>
+        <ignore_highlight>false</ignore_highlight>
+        <order>100</order>
+        <primary_field>name</primary_field>
+        <secondary_fields/>
+        <specificity>10</specificity>
+        <subheading>item_number</subheading>
+        <sys_class_name>sys_aw_form_header</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-07 14:25:04</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b045899c8ad8c2103bcc4e3585f0fb65</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_mikes2_inventory_control</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="mikes2" source="x_snc_mikes2">4845099c5bd8c2105064728df7b8dc6e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="mikes2">4845099c5bd8c2105064728df7b8dc6e</sys_scope>
+        <sys_update_name>sys_aw_form_header_b045899c8ad8c2103bcc4e3585f0fb65</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-07 14:25:04</sys_updated_on>
+        <table>x_snc_mikes2_inventory_control</table>
+        <workspace/>
+    </sys_aw_form_header>
+</record_update>

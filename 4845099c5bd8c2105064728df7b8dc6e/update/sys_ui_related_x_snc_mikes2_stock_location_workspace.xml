@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_related sys_domain="global" table="x_snc_mikes2_stock_location" version="2" view="workspace">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Stock Location - Workspace" name="x_snc_mikes2_stock_location" related_list="NULL" sys_domain="global" view="2b76a6bc1b33311054dcdc23b24bcb06">9845099cf2d8c21017bc1776647905f5</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>REL:2445499c79d8c21047e65509b92c7e95</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-07 14:25:11</sys_created_on>
+            <sys_id>1845099c96d8c2108b8e3351c59264f4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-07 14:25:11</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>Stock Location - Workspace</calculated_name>
+            <filter/>
+            <name>x_snc_mikes2_stock_location</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-07 14:25:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9845099cf2d8c21017bc1776647905f5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Stock Location - Workspace</sys_name>
+            <sys_package display_value="mikes2" source="x_snc_mikes2">4845099c5bd8c2105064728df7b8dc6e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="mikes2">4845099c5bd8c2105064728df7b8dc6e</sys_scope>
+            <sys_update_name>sys_ui_related_x_snc_mikes2_stock_location_workspace</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-07 14:25:11</sys_updated_on>
+            <sys_user/>
+            <view display_value="Workspace" name="workspace">2b76a6bc1b33311054dcdc23b24bcb06</view>
+            <view_name>workspace</view_name>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>

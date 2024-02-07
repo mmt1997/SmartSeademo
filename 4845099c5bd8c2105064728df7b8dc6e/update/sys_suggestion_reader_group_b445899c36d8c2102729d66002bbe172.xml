@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_suggestion_reader_group">
+    <sys_suggestion_reader_group action="INSERT_OR_UPDATE">
+        <click_in_mode>false</click_in_mode>
+        <context_config_id display_value="">4584eb026cf72810dcd2cdb103c90d54</context_config_id>
+        <limit>5</limit>
+        <order>400</order>
+        <section_header>Suggested Results</section_header>
+        <suggestion_type>Suggested Result Reader Group for Inventory Tracker Workspace Config</suggestion_type>
+        <sys_class_name>sys_suggestion_reader_group</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-07 14:25:08</sys_created_on>
+        <sys_id>b445899c36d8c2102729d66002bbe172</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Suggested Result Reader Group for Inventory Tracker Workspace Config</sys_name>
+        <sys_package display_value="mikes2" source="x_snc_mikes2">4845099c5bd8c2105064728df7b8dc6e</sys_package>
+        <sys_policy>null</sys_policy>
+        <sys_scope display_value="mikes2">4845099c5bd8c2105064728df7b8dc6e</sys_scope>
+        <sys_update_name>sys_suggestion_reader_group_b445899c36d8c2102729d66002bbe172</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-07 14:25:08</sys_updated_on>
+    </sys_suggestion_reader_group>
+</record_update>

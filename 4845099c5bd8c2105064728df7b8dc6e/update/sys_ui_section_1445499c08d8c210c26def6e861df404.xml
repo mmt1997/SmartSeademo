@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Item information" section_id="1445499c08d8c210c26def6e861df404" sys_domain="global" table="x_snc_mikes2_inventory_control" version="3" view="workspace">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-07 14:24:54</sys_created_on>
+            <sys_id>5445099c7fd8c210458e3a26fc62ddf4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Item information" display_value="Item information" name="x_snc_mikes2_inventory_control" sys_domain="global" view="2b76a6bc1b33311054dcdc23b24bcb06">1445499c08d8c210c26def6e861df404</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-07 14:24:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-07 14:24:54</sys_created_on>
+            <sys_id>9045099c2dd8c21056bcbc27beb258f4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Item information" display_value="Item information" name="x_snc_mikes2_inventory_control" sys_domain="global" view="2b76a6bc1b33311054dcdc23b24bcb06">1445499c08d8c210c26def6e861df404</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-07 14:24:54</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>item_number</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-07 14:24:54</sys_created_on>
+            <sys_id>9c45099c7ad8c2108e4e92f3fb8b1ef4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Item information" display_value="Item information" name="x_snc_mikes2_inventory_control" sys_domain="global" view="2b76a6bc1b33311054dcdc23b24bcb06">1445499c08d8c210c26def6e861df404</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-07 14:24:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-07 14:24:54</sys_created_on>
+            <sys_id>dc45099c75d8c210c1d0bd5a5d87c3f3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Item information" display_value="Item information" name="x_snc_mikes2_inventory_control" sys_domain="global" view="2b76a6bc1b33311054dcdc23b24bcb06">1445499c08d8c210c26def6e861df404</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-07 14:24:54</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>manufacturer</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-07 14:24:54</sys_created_on>
+            <sys_id>5845099cbfd8c21087d6e4dab5b59ef3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Item information" display_value="Item information" name="x_snc_mikes2_inventory_control" sys_domain="global" view="2b76a6bc1b33311054dcdc23b24bcb06">1445499c08d8c210c26def6e861df404</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-07 14:24:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-07 14:24:54</sys_created_on>
+            <sys_id>1c45099c71d8c210a9b841a7063668f3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Item information" display_value="Item information" name="x_snc_mikes2_inventory_control" sys_domain="global" view="2b76a6bc1b33311054dcdc23b24bcb06">1445499c08d8c210c26def6e861df404</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-07 14:24:54</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-07 14:24:54</sys_created_on>
+            <sys_id>5c45099c84d8c210d563e2a4512288f2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Item information" display_value="Item information" name="x_snc_mikes2_inventory_control" sys_domain="global" view="2b76a6bc1b33311054dcdc23b24bcb06">1445499c08d8c210c26def6e861df404</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-07 14:24:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>type</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-07 14:24:54</sys_created_on>
+            <sys_id>1845099cfdd8c2100efc5768298e38f1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Item information" display_value="Item information" name="x_snc_mikes2_inventory_control" sys_domain="global" view="2b76a6bc1b33311054dcdc23b24bcb06">1445499c08d8c210c26def6e861df404</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-07 14:24:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>item_photo</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-07 14:24:54</sys_created_on>
+            <sys_id>9845099ccdd8c2105d45332b7ea0ddf2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Item information" display_value="Item information" name="x_snc_mikes2_inventory_control" sys_domain="global" view="2b76a6bc1b33311054dcdc23b24bcb06">1445499c08d8c210c26def6e861df404</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-07 14:24:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_notes</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-07 14:24:54</sys_created_on>
+            <sys_id>9c45099c32d8c210774882254ffb10f1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Item information" display_value="Item information" name="x_snc_mikes2_inventory_control" sys_domain="global" view="2b76a6bc1b33311054dcdc23b24bcb06">1445499c08d8c210c26def6e861df404</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-07 14:24:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>activity.xml</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-07 14:24:54</sys_created_on>
+            <sys_id>d845099ca6d8c2107c27f18d1d38c4f1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="">0184eb0280f72810a9846fdf3b723a1d</sys_ui_formatter>
+            <sys_ui_section caption="Item information" display_value="Item information" name="x_snc_mikes2_inventory_control" sys_domain="global" view="2b76a6bc1b33311054dcdc23b24bcb06">1445499c08d8c210c26def6e861df404</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-07 14:24:54</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Item information</caption>
+            <header>false</header>
+            <name>x_snc_mikes2_inventory_control</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-07 14:24:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1445499c08d8c210c26def6e861df404</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_mikes2_inventory_control</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="mikes2" source="x_snc_mikes2">4845099c5bd8c2105064728df7b8dc6e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="mikes2">4845099c5bd8c2105064728df7b8dc6e</sys_scope>
+            <sys_update_name>sys_ui_section_1445499c08d8c210c26def6e861df404</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-07 14:24:54</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Workspace" name="workspace">2b76a6bc1b33311054dcdc23b24bcb06</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

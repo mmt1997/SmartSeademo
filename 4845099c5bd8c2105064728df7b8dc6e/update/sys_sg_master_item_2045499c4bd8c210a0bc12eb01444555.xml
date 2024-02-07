@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition_order/>
+        <datasource_table>x_snc_mikes2_inventory_control</datasource_table>
+        <datasource_table_condition table="x_snc_mikes2_inventory_control">reorder_statusANYTHING<item display_value="-- None --" endquery="false" field="reorder_status" goto="false" newquery="false" operator="ANYTHING" or="false" value=""/>
+        </datasource_table_condition>
+        <embedded_screen display_value="Popular Items Form">a445499c0ed8c2108117efc204389564</embedded_screen>
+        <item_view/>
+        <name>Popular Items Main Item</name>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-07 14:24:56</sys_created_on>
+        <sys_id>2045499c4bd8c210a0bc12eb01444555</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Popular Items Main Item</sys_name>
+        <sys_package display_value="mikes2" source="x_snc_mikes2">4845099c5bd8c2105064728df7b8dc6e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="mikes2">4845099c5bd8c2105064728df7b8dc6e</sys_scope>
+        <sys_update_name>sys_sg_master_item_2045499c4bd8c210a0bc12eb01444555</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-07 14:24:56</sys_updated_on>
+        <use_view_config>true</use_view_config>
+        <view_config display_value="Popular Items View Config">6845499cf9d8c2101e78d6d2b9100f4f</view_config>
+    </sys_sg_master_item>
+</record_update>

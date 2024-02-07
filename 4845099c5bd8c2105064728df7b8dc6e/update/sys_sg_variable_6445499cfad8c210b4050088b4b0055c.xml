@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_variable">
+    <sys_sg_variable action="INSERT_OR_UPDATE">
+        <name>return_date</name>
+        <parameter_screen display_value="Request item">2c45499cccd8c21036be0391d64b8f5b</parameter_screen>
+        <parameter_section/>
+        <sys_class_name>sys_sg_variable</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-07 14:24:36</sys_created_on>
+        <sys_id>6445499cfad8c210b4050088b4b0055c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>return_date</sys_name>
+        <sys_package display_value="mikes2" source="x_snc_mikes2">4845099c5bd8c2105064728df7b8dc6e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="mikes2">4845099c5bd8c2105064728df7b8dc6e</sys_scope>
+        <sys_update_name>sys_sg_variable_6445499cfad8c210b4050088b4b0055c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-07 14:24:36</sys_updated_on>
+        <type>db_field</type>
+    </sys_sg_variable>
+</record_update>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Manage request" section_id="1045499c3dd8c21004d25b2a27b78605" sys_domain="global" table="x_snc_mikes2_inventory_request" version="3" view="workspace">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>request_status</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-07 14:25:07</sys_created_on>
+            <sys_id>1c45099c25d8c210631fe0c77ef75fe7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Manage request" display_value="Manage request" name="x_snc_mikes2_inventory_request" sys_domain="global" view="2b76a6bc1b33311054dcdc23b24bcb06">1045499c3dd8c21004d25b2a27b78605</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-07 14:25:07</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>on_loan_item</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-07 14:25:07</sys_created_on>
+            <sys_id>d445099c4ad8c21027674d40743712e6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Manage request" display_value="Manage request" name="x_snc_mikes2_inventory_request" sys_domain="global" view="2b76a6bc1b33311054dcdc23b24bcb06">1045499c3dd8c21004d25b2a27b78605</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-07 14:25:07</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-07 14:25:07</sys_created_on>
+            <sys_id>9445099c51d8c2104e756170fa2687e7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Manage request" display_value="Manage request" name="x_snc_mikes2_inventory_request" sys_domain="global" view="2b76a6bc1b33311054dcdc23b24bcb06">1045499c3dd8c21004d25b2a27b78605</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-07 14:25:07</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_notes</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-07 14:25:07</sys_created_on>
+            <sys_id>9c45099c98d8c2103fe763920f72c2e5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Manage request" display_value="Manage request" name="x_snc_mikes2_inventory_request" sys_domain="global" view="2b76a6bc1b33311054dcdc23b24bcb06">1045499c3dd8c21004d25b2a27b78605</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-07 14:25:07</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>activity.xml</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-07 14:25:07</sys_created_on>
+            <sys_id>5845099c95d8c210bef811c8f2fa88e7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="">0184eb0280f72810a9846fdf3b723a1d</sys_ui_formatter>
+            <sys_ui_section caption="Manage request" display_value="Manage request" name="x_snc_mikes2_inventory_request" sys_domain="global" view="2b76a6bc1b33311054dcdc23b24bcb06">1045499c3dd8c21004d25b2a27b78605</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-07 14:25:07</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Manage request</caption>
+            <header>false</header>
+            <name>x_snc_mikes2_inventory_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-07 14:25:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1045499c3dd8c21004d25b2a27b78605</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_mikes2_inventory_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="mikes2" source="x_snc_mikes2">4845099c5bd8c2105064728df7b8dc6e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="mikes2">4845099c5bd8c2105064728df7b8dc6e</sys_scope>
+            <sys_update_name>sys_ui_section_1045499c3dd8c21004d25b2a27b78605</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-07 14:25:07</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Workspace" name="workspace">2b76a6bc1b33311054dcdc23b24bcb06</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

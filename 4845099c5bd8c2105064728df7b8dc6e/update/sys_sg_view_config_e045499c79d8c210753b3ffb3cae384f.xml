@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config">
+    <sys_sg_view_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <advanced>false</advanced>
+        <description/>
+        <name>My Requests View Config</name>
+        <scratchpad_script/>
+        <sys_class_name>sys_sg_view_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-07 14:24:40</sys_created_on>
+        <sys_id>e045499c79d8c210753b3ffb3cae384f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Requests View Config</sys_name>
+        <sys_package display_value="mikes2" source="x_snc_mikes2">4845099c5bd8c2105064728df7b8dc6e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="mikes2">4845099c5bd8c2105064728df7b8dc6e</sys_scope>
+        <sys_update_name>sys_sg_view_config_e045499c79d8c210753b3ffb3cae384f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-07 14:24:40</sys_updated_on>
+        <table>x_snc_mikes2_inventory_request</table>
+        <template display_value="Inventory Tracker- My request">ac45499ca7d8c21001cfc4925c1a4d3e</template>
+    </sys_sg_view_config>
+    <sys_translated_text action="delete_multiple" query="documentkey=e045499c79d8c210753b3ffb3cae384f"/>
+</record_update>

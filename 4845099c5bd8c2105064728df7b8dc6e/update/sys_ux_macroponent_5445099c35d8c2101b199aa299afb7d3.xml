@@ -1,0 +1,870 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_macroponent">
+    <sys_ux_macroponent action="INSERT_OR_UPDATE">
+        <associated_types/>
+        <bundles/>
+        <category>page</category>
+        <component_dependencies/>
+        <composition>[ {&#13;
+  "elementId" : "container_2",&#13;
+  "elementLabel" : "Container 2",&#13;
+  "propertyValues" : {&#13;
+    "ariaRegionName" : {&#13;
+      "type" : "JSON_LITERAL",&#13;
+      "value" : ""&#13;
+    },&#13;
+    "includeAriaHeading" : {&#13;
+      "type" : "JSON_LITERAL",&#13;
+      "value" : false&#13;
+    },&#13;
+    "ariaRegionHeadingLevel" : {&#13;
+      "type" : "JSON_LITERAL",&#13;
+      "value" : "1"&#13;
+    },&#13;
+    "type" : {&#13;
+      "type" : "JSON_LITERAL",&#13;
+      "value" : "section"&#13;
+    },&#13;
+    "ariaRole" : {&#13;
+      "type" : "JSON_LITERAL",&#13;
+      "value" : ""&#13;
+    }&#13;
+  },&#13;
+  "eventMappings" : [ ],&#13;
+  "slot" : null,&#13;
+  "definition" : {&#13;
+    "id" : "d356d14b6e293a3020a244b63d278d8f",&#13;
+    "type" : "MACROPONENT"&#13;
+  },&#13;
+  "overrides" : {&#13;
+    "composition" : [ {&#13;
+      "elementId" : "container_2_Sidebar_1",&#13;
+      "elementLabel" : "Sidebar 1",&#13;
+      "propertyValues" : {&#13;
+        "ariaRegionName" : {&#13;
+          "type" : "JSON_LITERAL",&#13;
+          "value" : ""&#13;
+        },&#13;
+        "ariaRegionHeadingLevel" : {&#13;
+          "type" : "JSON_LITERAL",&#13;
+          "value" : "1"&#13;
+        },&#13;
+        "includeAriaHeading" : {&#13;
+          "type" : "JSON_LITERAL",&#13;
+          "value" : false&#13;
+        },&#13;
+        "type" : {&#13;
+          "type" : "JSON_LITERAL",&#13;
+          "value" : "section"&#13;
+        },&#13;
+        "ariaRole" : {&#13;
+          "type" : "JSON_LITERAL",&#13;
+          "value" : ""&#13;
+        }&#13;
+      },&#13;
+      "eventMappings" : [ ],&#13;
+      "slot" : null,&#13;
+      "definition" : {&#13;
+        "id" : "d356d14b6e293a3020a244b63d278d8f",&#13;
+        "type" : "MACROPONENT"&#13;
+      },&#13;
+      "overrides" : {&#13;
+        "composition" : [ {&#13;
+          "elementId" : "label_value_1",&#13;
+          "elementLabel" : "Label value 1",&#13;
+          "propertyValues" : {&#13;
+            "label" : {&#13;
+              "type" : "TRANSLATION_LITERAL",&#13;
+              "value" : {&#13;
+                "code" : null,&#13;
+                "message" : "",&#13;
+                "comment" : ""&#13;
+              }&#13;
+            },&#13;
+            "value" : {&#13;
+              "type" : "TRANSLATION_LITERAL",&#13;
+              "value" : {&#13;
+                "code" : null,&#13;
+                "message" : "",&#13;
+                "comment" : ""&#13;
+              }&#13;
+            },&#13;
+            "reversed" : {&#13;
+              "type" : "JSON_LITERAL",&#13;
+              "value" : false&#13;
+            },&#13;
+            "truncated" : {&#13;
+              "type" : "JSON_LITERAL",&#13;
+              "value" : false&#13;
+            }&#13;
+          },&#13;
+          "eventMappings" : [ ],&#13;
+          "slot" : null,&#13;
+          "definition" : {&#13;
+            "id" : "bb63b710d208796b7ceaab7812bddef1",&#13;
+            "type" : "MACROPONENT"&#13;
+          },&#13;
+          "overrides" : null,&#13;
+          "isHidden" : {&#13;
+            "type" : "JSON_LITERAL",&#13;
+            "value" : null&#13;
+          },&#13;
+          "isHero" : false,&#13;
+          "isNonDestructive" : false,&#13;
+          "styles" : { }&#13;
+        } ],&#13;
+        "layout" : {&#13;
+          "default" : {&#13;
+            "children" : null,&#13;
+            "isInline" : null,&#13;
+            "items" : [{"element_id":"label_value_1","styles":{}}],&#13;
+            "root" : null,&#13;
+            "rules" : {"flex-direction":"column"},&#13;
+            "styles" : null,&#13;
+            "templateId" : null,&#13;
+            "type" : "flex"&#13;
+          },&#13;
+          "version" : "3.0.0"&#13;
+        }&#13;
+      },&#13;
+      "isHidden" : {&#13;
+        "type" : "JSON_LITERAL",&#13;
+        "value" : null&#13;
+      },&#13;
+      "isHero" : false,&#13;
+      "isNonDestructive" : false,&#13;
+      "styles" : {&#13;
+        "height" : "100%"&#13;
+      }&#13;
+    }, {&#13;
+      "elementId" : "container_2_Main",&#13;
+      "elementLabel" : "Main",&#13;
+      "propertyValues" : {&#13;
+        "ariaRegionName" : {&#13;
+          "type" : "JSON_LITERAL",&#13;
+          "value" : ""&#13;
+        },&#13;
+        "ariaRegionHeadingLevel" : {&#13;
+          "type" : "JSON_LITERAL",&#13;
+          "value" : "1"&#13;
+        },&#13;
+        "includeAriaHeading" : {&#13;
+          "type" : "JSON_LITERAL",&#13;
+          "value" : false&#13;
+        },&#13;
+        "type" : {&#13;
+          "type" : "JSON_LITERAL",&#13;
+          "value" : "section"&#13;
+        },&#13;
+        "ariaRole" : {&#13;
+          "type" : "JSON_LITERAL",&#13;
+          "value" : ""&#13;
+        }&#13;
+      },&#13;
+      "eventMappings" : [ ],&#13;
+      "slot" : null,&#13;
+      "definition" : {&#13;
+        "id" : "d356d14b6e293a3020a244b63d278d8f",&#13;
+        "type" : "MACROPONENT"&#13;
+      },&#13;
+      "overrides" : {&#13;
+        "composition" : [ {&#13;
+          "elementId" : "container_3",&#13;
+          "elementLabel" : "Container 3",&#13;
+          "propertyValues" : {&#13;
+            "ariaRegionName" : {&#13;
+              "type" : "JSON_LITERAL",&#13;
+              "value" : ""&#13;
+            },&#13;
+            "includeAriaHeading" : {&#13;
+              "type" : "JSON_LITERAL",&#13;
+              "value" : false&#13;
+            },&#13;
+            "ariaRegionHeadingLevel" : {&#13;
+              "type" : "JSON_LITERAL",&#13;
+              "value" : "1"&#13;
+            },&#13;
+            "type" : {&#13;
+              "type" : "JSON_LITERAL",&#13;
+              "value" : "section"&#13;
+            },&#13;
+            "ariaRole" : {&#13;
+              "type" : "JSON_LITERAL",&#13;
+              "value" : ""&#13;
+            }&#13;
+          },&#13;
+          "eventMappings" : [ ],&#13;
+          "slot" : null,&#13;
+          "definition" : {&#13;
+            "id" : "d356d14b6e293a3020a244b63d278d8f",&#13;
+            "type" : "MACROPONENT"&#13;
+          },&#13;
+          "overrides" : {&#13;
+            "composition" : [ {&#13;
+              "elementId" : "container_3_Main",&#13;
+              "elementLabel" : "Main",&#13;
+              "propertyValues" : {&#13;
+                "ariaRegionName" : {&#13;
+                  "type" : "JSON_LITERAL",&#13;
+                  "value" : ""&#13;
+                },&#13;
+                "ariaRegionHeadingLevel" : {&#13;
+                  "type" : "JSON_LITERAL",&#13;
+                  "value" : "1"&#13;
+                },&#13;
+                "includeAriaHeading" : {&#13;
+                  "type" : "JSON_LITERAL",&#13;
+                  "value" : false&#13;
+                },&#13;
+                "type" : {&#13;
+                  "type" : "JSON_LITERAL",&#13;
+                  "value" : "section"&#13;
+                },&#13;
+                "ariaRole" : {&#13;
+                  "type" : "JSON_LITERAL",&#13;
+                  "value" : ""&#13;
+                }&#13;
+              },&#13;
+              "eventMappings" : [ ],&#13;
+              "slot" : null,&#13;
+              "definition" : {&#13;
+                "id" : "d356d14b6e293a3020a244b63d278d8f",&#13;
+                "type" : "MACROPONENT"&#13;
+              },&#13;
+              "overrides" : {&#13;
+                "composition" : [ {&#13;
+                  "elementId" : "breadcrumbs_1",&#13;
+                  "elementLabel" : "Breadcrumbs 1",&#13;
+                  "propertyValues" : {&#13;
+                    "items" : {&#13;
+                      "type" : "LIST_CONTAINER",&#13;
+                      "container" : [ {&#13;
+                        "type" : "MAP_CONTAINER",&#13;
+                        "container" : {&#13;
+                          "label" : {&#13;
+                            "type" : "TRANSLATION_LITERAL",&#13;
+                            "value" : {&#13;
+                              "code" : null,&#13;
+                              "message" : "Home",&#13;
+                              "comment" : ""&#13;
+                            }&#13;
+                          },&#13;
+                          "href" : {&#13;
+                            "type" : "JSON_LITERAL",&#13;
+                            "value" : "/now/x_snc_mikes2-inventory-tracker/portal/home"&#13;
+                          }&#13;
+                        }&#13;
+                      }, {&#13;
+                        "type" : "MAP_CONTAINER",&#13;
+                        "container" : {&#13;
+                          "label" : {&#13;
+                            "type" : "TRANSLATION_LITERAL",&#13;
+                            "value" : {&#13;
+                              "code" : null,&#13;
+                              "message" : "My Requests",&#13;
+                              "comment" : ""&#13;
+                            }&#13;
+                          }&#13;
+                        }&#13;
+                      } ]&#13;
+                    },&#13;
+                    "delimiter" : {&#13;
+                      "type" : "JSON_LITERAL",&#13;
+                      "value" : "chevron"&#13;
+                    },&#13;
+                    "overflow" : {&#13;
+                      "type" : "JSON_LITERAL",&#13;
+                      "value" : "collapse"&#13;
+                    }&#13;
+                  },&#13;
+                  "eventMappings" : [ ],&#13;
+                  "slot" : null,&#13;
+                  "definition" : {&#13;
+                    "id" : "9c2e48402c6c25d281faeb20637f6106",&#13;
+                    "type" : "MACROPONENT"&#13;
+                  },&#13;
+                  "overrides" : null,&#13;
+                  "isHidden" : {&#13;
+                    "type" : "JSON_LITERAL",&#13;
+                    "value" : ""&#13;
+                  },&#13;
+                  "isHero" : false,&#13;
+                  "isNonDestructive" : false,&#13;
+                  "styles" : {&#13;
+                    "margin-bottom" : "10px"&#13;
+                  }&#13;
+                }, {&#13;
+                  "elementId" : "data_set_1",&#13;
+                  "elementLabel" : "Data set 1",&#13;
+                  "propertyValues" : {&#13;
+                    "title" : {&#13;
+                      "type" : "TRANSLATION_LITERAL",&#13;
+                      "value" : {&#13;
+                        "code" : null,&#13;
+                        "message" : "My Requests",&#13;
+                        "comment" : ""&#13;
+                      }&#13;
+                    },&#13;
+                    "data" : {&#13;
+                      "type" : "DATA_OUTPUT_BINDING",&#13;
+                      "binding" : {&#13;
+                        "address" : [ "status_color_assign_1", "output" ]&#13;
+                      }&#13;
+                    },&#13;
+                    "toggleView" : {&#13;
+                      "type" : "JSON_LITERAL",&#13;
+                      "value" : true&#13;
+                    },&#13;
+                    "defaultView" : {&#13;
+                      "type" : "JSON_LITERAL",&#13;
+                      "value" : "grid"&#13;
+                    },&#13;
+                    "cardHeight" : {&#13;
+                      "type" : "JSON_LITERAL",&#13;
+                      "value" : "md"&#13;
+                    },&#13;
+                    "maxCardsPerRow" : {&#13;
+                      "type" : "JSON_LITERAL",&#13;
+                      "value" : "3"&#13;
+                    },&#13;
+                    "minCardWidth" : {&#13;
+                      "type" : "JSON_LITERAL",&#13;
+                      "value" : 150&#13;
+                    },&#13;
+                    "emptyMessage" : {&#13;
+                      "type" : "TRANSLATION_LITERAL",&#13;
+                      "value" : {&#13;
+                        "code" : null,&#13;
+                        "message" : "You don't have any requests.",&#13;
+                        "comment" : ""&#13;
+                      }&#13;
+                    },&#13;
+                    "hideFilter" : {&#13;
+                      "type" : "JSON_LITERAL",&#13;
+                      "value" : true&#13;
+                    },&#13;
+                    "hidePaginationControls" : {&#13;
+                      "type" : "JSON_LITERAL",&#13;
+                      "value" : false&#13;
+                    },&#13;
+                    "daClientActionContract" : {&#13;
+                      "type" : "JSON_LITERAL",&#13;
+                      "value" : null&#13;
+                    },&#13;
+                    "titleHeadingLevel" : {&#13;
+                      "type" : "JSON_LITERAL",&#13;
+                      "value" : "1"&#13;
+                    },&#13;
+                    "titleStyleVariant" : {&#13;
+                      "type" : "JSON_LITERAL",&#13;
+                      "value" : "header-tertiary"&#13;
+                    },&#13;
+                    "dataBrokerIsLoading" : {&#13;
+                      "type" : "JSON_LITERAL",&#13;
+                      "value" : false&#13;
+                    }&#13;
+                  },&#13;
+                  "eventMappings" : [ {&#13;
+                    "eventMappingId" : "ckhqapffviaaaabuddhhhikiirhiihvaa",&#13;
+                    "isConfiguration" : false,&#13;
+                    "offRowStorageId" : null,&#13;
+                    "sourceEventApiName" : "now_data_set.NOW_DATA_SET#PAGINATION_BUTTON_CLICKED",&#13;
+                    "sourceEventCorrelationId" : null,&#13;
+                    "sourceEventDefinition" : {&#13;
+                      "apiName" : "now_data_set.NOW_DATA_SET#PAGINATION_BUTTON_CLICKED",&#13;
+                      "id" : null,&#13;
+                      "type" : "UXEVENT"&#13;
+                    },&#13;
+                    "sourceEventSysId" : null,&#13;
+                    "targets" : [ {&#13;
+                      "broker" : null,&#13;
+                      "clientScript" : {&#13;
+                        "sysId" : "9445099c3ed8c2104d9ccd3c1841f79f"&#13;
+                      },&#13;
+                      "conditional" : null,&#13;
+                      "declarativeAction" : null,&#13;
+                      "event" : null,&#13;
+                      "operation" : null,&#13;
+                      "targetId" : "ckhqapffviaaaabvddhhhidbbstnvjjq",&#13;
+                      "type" : "CLIENT_SCRIPT"&#13;
+                    } ]&#13;
+                  } ],&#13;
+                  "slot" : null,&#13;
+                  "definition" : {&#13;
+                    "id" : "dec0b89ec87f44e66126f8cc78e53891",&#13;
+                    "type" : "MACROPONENT"&#13;
+                  },&#13;
+                  "overrides" : null,&#13;
+                  "isHidden" : {&#13;
+                    "type" : "JSON_LITERAL",&#13;
+                    "value" : ""&#13;
+                  },&#13;
+                  "isHero" : false,&#13;
+                  "isNonDestructive" : false,&#13;
+                  "styles" : {&#13;
+                    "font-family" : "cabin"&#13;
+                  }&#13;
+                } ],&#13;
+                "layout" : {&#13;
+                  "default" : {&#13;
+                    "children" : null,&#13;
+                    "isInline" : null,&#13;
+                    "items" : [{"rules":{},"styles":{},"element_id":"breadcrumbs_1"},{"rules":{},"styles":{},"element_id":"data_set_1"}],&#13;
+                    "root" : null,&#13;
+                    "rules" : {},&#13;
+                    "styles" : {"flex-direction":"column","display":"flex"},&#13;
+                    "templateId" : null,&#13;
+                    "type" : "flex"&#13;
+                  },&#13;
+                  "version" : "3.0.0"&#13;
+                }&#13;
+              },&#13;
+              "isHidden" : {&#13;
+                "type" : "JSON_LITERAL",&#13;
+                "value" : null&#13;
+              },&#13;
+              "isHero" : false,&#13;
+              "isNonDestructive" : false,&#13;
+              "styles" : {&#13;
+                "height" : "100%"&#13;
+              }&#13;
+            } ],&#13;
+            "layout" : {&#13;
+              "default" : {&#13;
+                "children" : null,&#13;
+                "isInline" : null,&#13;
+                "items" : [{"rules":{},"styles":{"grid-area":"main"},"element_id":"container_3_Main"}],&#13;
+                "root" : null,&#13;
+                "rules" : null,&#13;
+                "styles" : {"grid-template-rows":"auto","grid-template-columns":"1fr","grid-template-areas":"\"main\"","grid-gap":"1rem","height":"100%"},&#13;
+                "templateId" : "5832fd4d53c31010e6bcddeeff7b12db",&#13;
+                "type" : "grid"&#13;
+              },&#13;
+              "version" : "3.0.0"&#13;
+            }&#13;
+          },&#13;
+          "isHidden" : {&#13;
+            "type" : "JSON_LITERAL",&#13;
+            "value" : ""&#13;
+          },&#13;
+          "isHero" : false,&#13;
+          "isNonDestructive" : false,&#13;
+          "styles" : {&#13;
+            "width" : "100%",&#13;
+            "box-shadow" : "0 4px 8px 0 rgba(0, 0, 0, 0.3)",&#13;
+            "display" : "flex",&#13;
+            "flex-direction" : "column",&#13;
+            "padding" : "var(--now-static-space--xxl)",&#13;
+            "background-color" : "rgb(var(--now-color--neutral-0))"&#13;
+          }&#13;
+        } ],&#13;
+        "layout" : {&#13;
+          "default" : {&#13;
+            "children" : null,&#13;
+            "isInline" : null,&#13;
+            "items" : [{"rules":{},"styles":{},"element_id":"container_3"}],&#13;
+            "root" : null,&#13;
+            "rules" : {},&#13;
+            "styles" : {"flex-direction":"column","display":"flex"},&#13;
+            "templateId" : null,&#13;
+            "type" : "flex"&#13;
+          },&#13;
+          "version" : "3.0.0"&#13;
+        }&#13;
+      },&#13;
+      "isHidden" : {&#13;
+        "type" : "JSON_LITERAL",&#13;
+        "value" : null&#13;
+      },&#13;
+      "isHero" : false,&#13;
+      "isNonDestructive" : false,&#13;
+      "styles" : { }&#13;
+    }, {&#13;
+      "elementId" : "container_2_Sidebar_2",&#13;
+      "elementLabel" : "Sidebar 2",&#13;
+      "propertyValues" : {&#13;
+        "ariaRegionName" : {&#13;
+          "type" : "JSON_LITERAL",&#13;
+          "value" : ""&#13;
+        },&#13;
+        "ariaRegionHeadingLevel" : {&#13;
+          "type" : "JSON_LITERAL",&#13;
+          "value" : "1"&#13;
+        },&#13;
+        "includeAriaHeading" : {&#13;
+          "type" : "JSON_LITERAL",&#13;
+          "value" : false&#13;
+        },&#13;
+        "type" : {&#13;
+          "type" : "JSON_LITERAL",&#13;
+          "value" : "section"&#13;
+        },&#13;
+        "ariaRole" : {&#13;
+          "type" : "JSON_LITERAL",&#13;
+          "value" : ""&#13;
+        }&#13;
+      },&#13;
+      "eventMappings" : [ ],&#13;
+      "slot" : null,&#13;
+      "definition" : {&#13;
+        "id" : "d356d14b6e293a3020a244b63d278d8f",&#13;
+        "type" : "MACROPONENT"&#13;
+      },&#13;
+      "overrides" : {&#13;
+        "composition" : [ {&#13;
+          "elementId" : "label_value_2",&#13;
+          "elementLabel" : "Label value 2",&#13;
+          "propertyValues" : {&#13;
+            "label" : {&#13;
+              "type" : "TRANSLATION_LITERAL",&#13;
+              "value" : {&#13;
+                "code" : null,&#13;
+                "message" : "",&#13;
+                "comment" : ""&#13;
+              }&#13;
+            },&#13;
+            "value" : {&#13;
+              "type" : "TRANSLATION_LITERAL",&#13;
+              "value" : {&#13;
+                "code" : null,&#13;
+                "message" : "",&#13;
+                "comment" : ""&#13;
+              }&#13;
+            },&#13;
+            "reversed" : {&#13;
+              "type" : "JSON_LITERAL",&#13;
+              "value" : false&#13;
+            },&#13;
+            "truncated" : {&#13;
+              "type" : "JSON_LITERAL",&#13;
+              "value" : false&#13;
+            }&#13;
+          },&#13;
+          "eventMappings" : [ ],&#13;
+          "slot" : null,&#13;
+          "definition" : {&#13;
+            "id" : "bb63b710d208796b7ceaab7812bddef1",&#13;
+            "type" : "MACROPONENT"&#13;
+          },&#13;
+          "overrides" : null,&#13;
+          "isHidden" : {&#13;
+            "type" : "JSON_LITERAL",&#13;
+            "value" : null&#13;
+          },&#13;
+          "isHero" : false,&#13;
+          "isNonDestructive" : false,&#13;
+          "styles" : { }&#13;
+        } ],&#13;
+        "layout" : {&#13;
+          "default" : {&#13;
+            "children" : null,&#13;
+            "isInline" : null,&#13;
+            "items" : [{"element_id":"label_value_2","styles":{}}],&#13;
+            "root" : null,&#13;
+            "rules" : {"flex-direction":"column"},&#13;
+            "styles" : null,&#13;
+            "templateId" : null,&#13;
+            "type" : "flex"&#13;
+          },&#13;
+          "version" : "3.0.0"&#13;
+        }&#13;
+      },&#13;
+      "isHidden" : {&#13;
+        "type" : "JSON_LITERAL",&#13;
+        "value" : null&#13;
+      },&#13;
+      "isHero" : false,&#13;
+      "isNonDestructive" : false,&#13;
+      "styles" : {&#13;
+        "height" : "100%"&#13;
+      }&#13;
+    } ],&#13;
+    "layout" : {&#13;
+      "default" : {&#13;
+        "children" : null,&#13;
+        "isInline" : null,&#13;
+        "items" : [{"rules":{},"styles":{"display":"flex","flex-direction":"column","grid-area":"sidebar1","height":"100%"},"element_id":"container_2_Sidebar_1"},{"rules":{},"styles":{"margin":"50px 0px","grid-area":"main"},"element_id":"container_2_Main"},{"rules":{},"styles":{"display":"flex","flex-direction":"column","grid-area":"sidebar2","height":"100%"},"element_id":"container_2_Sidebar_2"}],&#13;
+        "root" : null,&#13;
+        "rules" : null,&#13;
+        "styles" : {"grid-template-rows":"auto","grid-template-columns":"1fr 5fr 1fr","grid-template-areas":"\"sidebar1 main sidebar2\"","grid-gap":"1rem","height":"100%"},&#13;
+        "templateId" : "6da9358153071010e6bcddeeff7b1287",&#13;
+        "type" : "grid"&#13;
+      },&#13;
+      "version" : "3.0.0"&#13;
+    }&#13;
+  },&#13;
+  "isHidden" : {&#13;
+    "type" : "JSON_LITERAL",&#13;
+    "value" : ""&#13;
+  },&#13;
+  "isHero" : false,&#13;
+  "isNonDestructive" : false,&#13;
+  "styles" : { }&#13;
+} ]</composition>
+        <da_relay_models/>
+        <data>[ {&#13;
+  "definition" : {&#13;
+    "id" : "e6af35d9dbb810106b3982c9689619e5",&#13;
+    "type" : "COMPOSITE"&#13;
+  },&#13;
+  "elementId" : "evam_data_resource_1",&#13;
+  "elementLabel" : "EVAM Data Resource 1",&#13;
+  "eventMappings" : [ ],&#13;
+  "inputValues" : {&#13;
+    "evamDefinitionId" : {&#13;
+      "type" : "JSON_LITERAL",&#13;
+      "value" : "1445099ca9d8c210ceccb1165387979e"&#13;
+    },&#13;
+    "pageCursor" : {&#13;
+      "type" : "STATE_BINDING",&#13;
+      "binding" : {&#13;
+        "address" : [ "pageCursor" ]&#13;
+      }&#13;
+    },&#13;
+    "pageSize" : {&#13;
+      "type" : "STATE_BINDING",&#13;
+      "binding" : {&#13;
+        "address" : [ "pageSize" ]&#13;
+      }&#13;
+    },&#13;
+    "pageNumber" : {&#13;
+      "type" : "STATE_BINDING",&#13;
+      "binding" : {&#13;
+        "address" : [ "pageNumber" ]&#13;
+      }&#13;
+    },&#13;
+    "filterPreference" : {&#13;
+      "type" : "JSON_LITERAL",&#13;
+      "value" : ""&#13;
+    }&#13;
+  },&#13;
+  "readEvaluationMode" : "EAGER"&#13;
+}, {&#13;
+  "definition" : {&#13;
+    "id" : "d845099cb1d8c21003f92b75f9d97f8e",&#13;
+    "type" : "SCRIPTLET"&#13;
+  },&#13;
+  "elementId" : "status_color_assign_1",&#13;
+  "elementLabel" : "Status Color Assign 1",&#13;
+  "eventMappings" : [ ],&#13;
+  "inputValues" : {&#13;
+    "graphqlData" : {&#13;
+      "type" : "DATA_OUTPUT_BINDING",&#13;
+      "binding" : {&#13;
+        "address" : [ "evam_data_resource_1", "compositeDataViews" ]&#13;
+      }&#13;
+    }&#13;
+  },&#13;
+  "readEvaluationMode" : "EAGER"&#13;
+} ]</data>
+        <description/>
+        <dispatched_events>1045099c3ad8c210669b7aff13a2d287</dispatched_events>
+        <ext_controller_dep/>
+        <extends display_value="Page Template">19be392623033300f4b4c50947bf65ba</extends>
+        <extension_point/>
+        <handled_events>d845099ce7d8c210633e808e106b46d3</handled_events>
+        <interactions/>
+        <interfaces/>
+        <internal_event_mappings>{&#13;
+  "x_snc_mikes2.REQUEST_ITEM_CLICKED" : [ {&#13;
+    "broker" : null,&#13;
+    "clientScript" : null,&#13;
+    "conditional" : null,&#13;
+    "declarativeAction" : null,&#13;
+    "event" : {&#13;
+      "apiName" : "x_snc_mikes2.NAV_ITEM_SELECTED_RELAY_5445099c35d8c2101b199aa299afb7d3",&#13;
+      "payload" : {&#13;
+        "type" : "MAP_CONTAINER",&#13;
+        "container" : {&#13;
+          "route" : {&#13;
+            "type" : "JSON_LITERAL",&#13;
+            "value" : "request-details"&#13;
+          },&#13;
+          "fields" : {&#13;
+            "type" : "MAP_CONTAINER",&#13;
+            "container" : {&#13;
+              "sysId" : {&#13;
+                "type" : "EVENT_PAYLOAD_BINDING",&#13;
+                "binding" : {&#13;
+                  "address" : [ "sysId" ]&#13;
+                }&#13;
+              }&#13;
+            }&#13;
+          },&#13;
+          "params" : {&#13;
+            "type" : "JSON_LITERAL",&#13;
+            "value" : null&#13;
+          },&#13;
+          "redirect" : {&#13;
+            "type" : "JSON_LITERAL",&#13;
+            "value" : null&#13;
+          },&#13;
+          "passiveNavigation" : {&#13;
+            "type" : "JSON_LITERAL",&#13;
+            "value" : null&#13;
+          },&#13;
+          "title" : {&#13;
+            "type" : "JSON_LITERAL",&#13;
+            "value" : null&#13;
+          },&#13;
+          "multiInstField" : {&#13;
+            "type" : "JSON_LITERAL",&#13;
+            "value" : null&#13;
+          },&#13;
+          "targetRoute" : {&#13;
+            "type" : "JSON_LITERAL",&#13;
+            "value" : null&#13;
+          },&#13;
+          "external" : {&#13;
+            "type" : "JSON_LITERAL",&#13;
+            "value" : null&#13;
+          }&#13;
+        }&#13;
+      },&#13;
+      "sysId" : "1045099c3ad8c210669b7aff13a2d287"&#13;
+    },&#13;
+    "operation" : null,&#13;
+    "targetId" : "ckjcoukzxaaaaaatddgiijjveenveuudd",&#13;
+    "type" : "EVENT"&#13;
+  } ],&#13;
+  "eb5fae0ac3f31410051653eeb840dd53.REQUEST_ITEM_CLICKED" : [ {&#13;
+    "broker" : null,&#13;
+    "clientScript" : null,&#13;
+    "conditional" : null,&#13;
+    "declarativeAction" : null,&#13;
+    "event" : {&#13;
+      "apiName" : "x_snc_mikes2.NAV_ITEM_SELECTED_RELAY_5445099c35d8c2101b199aa299afb7d3",&#13;
+      "payload" : {&#13;
+        "type" : "MAP_CONTAINER",&#13;
+        "container" : {&#13;
+          "route" : {&#13;
+            "type" : "JSON_LITERAL",&#13;
+            "value" : "request-details"&#13;
+          },&#13;
+          "fields" : {&#13;
+            "type" : "MAP_CONTAINER",&#13;
+            "container" : {&#13;
+              "sys_id" : {&#13;
+                "type" : "EVENT_PAYLOAD_BINDING",&#13;
+                "binding" : {&#13;
+                  "address" : [ "sysId" ]&#13;
+                }&#13;
+              }&#13;
+            }&#13;
+          },&#13;
+          "params" : {&#13;
+            "type" : "JSON_LITERAL",&#13;
+            "value" : null&#13;
+          },&#13;
+          "redirect" : {&#13;
+            "type" : "JSON_LITERAL",&#13;
+            "value" : null&#13;
+          },&#13;
+          "passiveNavigation" : {&#13;
+            "type" : "JSON_LITERAL",&#13;
+            "value" : null&#13;
+          },&#13;
+          "title" : {&#13;
+            "type" : "JSON_LITERAL",&#13;
+            "value" : null&#13;
+          },&#13;
+          "multiInstField" : {&#13;
+            "type" : "JSON_LITERAL",&#13;
+            "value" : null&#13;
+          },&#13;
+          "targetRoute" : {&#13;
+            "type" : "JSON_LITERAL",&#13;
+            "value" : null&#13;
+          },&#13;
+          "external" : {&#13;
+            "type" : "JSON_LITERAL",&#13;
+            "value" : null&#13;
+          }&#13;
+        }&#13;
+      },&#13;
+      "sysId" : "1045099c3ad8c210669b7aff13a2d287"&#13;
+    },&#13;
+    "operation" : null,&#13;
+    "targetId" : "ckhqabyqccaaaaaccddhhhicnzhccpiio",&#13;
+    "type" : "EVENT"&#13;
+  } ]&#13;
+}</internal_event_mappings>
+        <layout>{&#13;
+  "default" : {&#13;
+    "children" : null,&#13;
+    "isInline" : null,&#13;
+    "items" : [{"rules":{},"styles":{"background-color":"rgb(var(--now-color--inventory--background-color))","overflow-y":"hidden","grid-area":"main"},"element_id":"container_2"}],&#13;
+    "root" : null,&#13;
+    "rules" : null,&#13;
+    "styles" : {"grid-template-rows":"minmax(400px,auto)","grid-template-columns":"1fr","grid-template-areas":"\"main\"","grid-gap":"1rem","height":"100%"},&#13;
+    "templateId" : "28bde4cd53431010e6bcddeeff7b12cc",&#13;
+    "type" : "grid"&#13;
+  },&#13;
+  "version" : "3.0.0"&#13;
+}</layout>
+        <macroponent_dependencies/>
+        <name>All Requests</name>
+        <output_prop_mapping/>
+        <props>[ ]</props>
+        <required_translations>[ {
+  "message" : "Home",
+  "comment" : ""
+}, {
+  "message" : "My Requests",
+  "comment" : ""
+}, {
+  "message" : "You don't have any requests.",
+  "comment" : ""
+} ]</required_translations>
+        <root_component/>
+        <root_component_config>{ }</root_component_config>
+        <root_component_definition/>
+        <schema_version>1.0.0</schema_version>
+        <state_properties>[ {
+  "name" : "pageCursor",
+  "label" : "pageCursor",
+  "fieldType" : "",
+  "valueType" : "",
+  "shape" : "",
+  "description" : "",
+  "initialValue" : {
+    "type" : "JSON_LITERAL",
+    "value" : null
+  }
+}, {
+  "name" : "pageSize",
+  "label" : "pageSize",
+  "fieldType" : "number",
+  "valueType" : "number",
+  "shape" : "",
+  "description" : "",
+  "initialValue" : {
+    "type" : "JSON_LITERAL",
+    "value" : 12
+  }
+}, {
+  "name" : "pageNumber",
+  "label" : "pageNumber",
+  "fieldType" : "number",
+  "valueType" : "number",
+  "shape" : "",
+  "description" : "",
+  "initialValue" : {
+    "type" : "JSON_LITERAL",
+    "value" : 1
+  }
+} ]</state_properties>
+        <sys_class_name>sys_ux_macroponent</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-07 14:24:53</sys_created_on>
+        <sys_id>5445099c35d8c2101b199aa299afb7d3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>All Requests</sys_name>
+        <sys_package display_value="mikes2" source="x_snc_mikes2">4845099c5bd8c2105064728df7b8dc6e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="mikes2">4845099c5bd8c2105064728df7b8dc6e</sys_scope>
+        <sys_update_name>sys_ux_macroponent_5445099c35d8c2101b199aa299afb7d3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-07 14:24:53</sys_updated_on>
+    </sys_ux_macroponent>
+    <sys_translated_text action="delete_multiple" query="documentkey=5445099c35d8c2101b199aa299afb7d3"/>
+</record_update>

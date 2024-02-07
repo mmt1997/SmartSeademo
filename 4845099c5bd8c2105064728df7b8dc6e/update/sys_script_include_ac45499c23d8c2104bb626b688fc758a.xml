@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_snc_mikes2.inventoryDateValidations</api_name>
+        <caller_access/>
+        <client_callable>true</client_callable>
+        <description/>
+        <name>inventoryDateValidations</name>
+        <script><![CDATA[var inventoryDateValidations = Class.create();
+inventoryDateValidations.prototype = Object.extendsObject(global.AbstractAjaxProcessor, {
+
+    dateRequired: function() {
+        var dateRequired = this.getParameter('sysparm_required');
+        var currentDate = new GlideDateTime();
+        currentDate.setValue(new GlideDate().getValue());
+        var formatDate = "";
+        var formatTime = "";
+        var requiredDate = new GlideDateTime();
+        dateRequired = this.loggedInUserDateformat(dateRequired);
+        requiredDate.setDisplayValue(dateRequired);
+        return requiredDate.getNumericValue() < currentDate.getNumericValue();
+    },
+    dateReturn: function() {
+        var returnDate = this.getParameter('sysparm_return');
+        var requiredDate = this.getParameter('sysparm_required');
+        var maxLoanDuration = this.getMaxLoanDuration(this.getParameter('sysparm_item'));
+        var loanDueDate = new GlideDateTime(requiredDate);
+        loanDueDate.addDaysLocalTime(maxLoanDuration.toString());
+        var currentDate = new GlideDateTime();
+        currentDate.setValue(new GlideDate().getValue());
+        var formatDate = "";
+        var formatTime = "";
+        var dateReturn = new GlideDateTime();
+        returnDate = this.loggedInUserDateformat(returnDate);
+        dateReturn.setDisplayValue(returnDate);
+        var dateRequired = new GlideDateTime();
+        requiredDate = this.loggedInUserDateformat(requiredDate);
+        dateRequired.setDisplayValue(requiredDate);
+        var results = {
+            'returnValue': '',
+            'maxLoanValue': ''
+        };
+        if (returnDate && loanDueDate && loanDueDate.getNumericValue() !== dateReturn.getNumericValue()) {
+            if (dateReturn.getNumericValue() < dateRequired.getNumericValue()) {
+                results['returnValue'] = 'true';
+            } else if (loanDueDate.getNumericValue() <= dateReturn.getNumericValue()) {
+                results['maxLoanValue'] = 'true';
+			}
+        }
+        return JSON.stringify(results);
+    },
+    loggedInUserDateformat: function(date, userID) {
+        var dateFormat = '';
+        userID = userID || gs.getUserID();
+        var userObj = new GlideRecord('sys_user');
+        if (userObj.get(userID)) {
+            dateFormat = userObj.getValue('date_format');
+        }
+        if (dateFormat == null || dateFormat == '') {
+            return date + ' ' + "00:00:00";
+        } else if (dateFormat.indexOf("MM-dd-yyyy") == "0") {
+            date = date.split(' ');
+            formatTime = date[1] || "00:00:00";
+            formatDate = date[0];
+            formatDate = formatDate.split('-');
+            date = formatDate[2] + "-" + formatDate[0] + "-" + formatDate[1] + ' ' + formatTime;
+            return date;
+        } else if (dateFormat.indexOf("dd-MM-yyyy") == "0") {
+            date = date.split(' ');
+            formatTime = date[1] || "00:00:00";
+            formatDate = date[0];
+            formatDate = formatDate.split('-');
+            date = formatDate[2] + "-" + formatDate[1] + "-" + formatDate[0] + ' ' + formatTime;
+            return date;
+
+        } else if (dateFormat.indexOf("yyyy-MM-dd") == "0") {
+            date = date.split(' ');
+            formatTime = date[1] || "00:00:00";
+            formatDate = date[0];
+            formatDate = formatDate.split('-');
+            date = formatDate[0] + "-" + formatDate[1] + "-" + formatDate[2] + ' ' + formatTime;
+            return date;
+        } else if (dateFormat.indexOf("dd/MM/yyyy") == "0") {
+            date = date.split(' ');
+            formatTime = date[1] || "00:00:00";
+            formatDate = date[0];
+            formatDate = formatDate.split('/');
+            date = formatDate[2] + "-" + formatDate[1] + "-" + formatDate[0] + ' ' + formatTime;
+            return date;
+        } else if (dateFormat.indexOf("dd.MM.yyyy") == "0") {
+            date = date.split(' ');
+            formatTime = date[1] || "00:00:00";
+            formatDate = date[0];
+            formatDate = formatDate.split('.');
+            date = formatDate[2] + "-" + formatDate[1] + "-" + formatDate[0] + ' ' + formatTime;
+            return date;
+        }
+    },
+
+    getMaxLoanDuration: function(itemId) {
+        var itemGr = new GlideRecord('x_snc_mikes2_inventory_control');
+        itemGr.addQuery('sys_id', itemId);
+        itemGr.query();
+        if (itemGr.next()) {
+            return itemGr.loan_duration;
+        }
+    },
+
+    type: 'inventoryDateValidations'
+});]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-07 14:24:52</sys_created_on>
+        <sys_id>ac45499c23d8c2104bb626b688fc758a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>inventoryDateValidations</sys_name>
+        <sys_package display_value="mikes2" source="x_snc_mikes2">4845099c5bd8c2105064728df7b8dc6e</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="mikes2">4845099c5bd8c2105064728df7b8dc6e</sys_scope>
+        <sys_update_name>sys_script_include_ac45499c23d8c2104bb626b688fc758a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-07 14:24:52</sys_updated_on>
+    </sys_script_include>
+</record_update>

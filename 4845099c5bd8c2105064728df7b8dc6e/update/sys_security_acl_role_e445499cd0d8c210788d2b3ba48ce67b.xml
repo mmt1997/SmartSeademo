@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-07 14:25:02</sys_created_on>
+        <sys_id>e445499cd0d8c210788d2b3ba48ce67b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>now.x_snc_mikes2-inventory-tracker.portal.*.x_snc_mikes2.employee</sys_name>
+        <sys_package display_value="mikes2" source="x_snc_mikes2">4845099c5bd8c2105064728df7b8dc6e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="mikes2">4845099c5bd8c2105064728df7b8dc6e</sys_scope>
+        <sys_security_acl display_value="now.x_snc_mikes2-inventory-tracker.portal.*">6845499c40d8c210d8f0ebeb47278a83</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_e445499cd0d8c210788d2b3ba48ce67b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-07 14:25:02</sys_updated_on>
+        <sys_user_role display_value="x_snc_mikes2.employee" name="x_snc_mikes2.employee">3045899cd1d8c210f966901e6fa4bf87</sys_user_role>
+    </sys_security_acl_role>
+</record_update>

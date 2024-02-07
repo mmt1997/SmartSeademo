@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_facet">
+    <sys_search_facet action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <ais_facet_name>x_snc_mikes2_inventory_control.name</ais_facet_name>
+        <label>Item Name</label>
+        <name>Item Name</name>
+        <option_limit>10</option_limit>
+        <order>100</order>
+        <search_context_config display_value="Inventory tracker Mobile Search">2045499c64d8c210563e00757afa2389</search_context_config>
+        <sys_class_name>sys_search_facet</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-07 14:25:19</sys_created_on>
+        <sys_id>6045499ccdd8c210f805cf10cc814f88</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_mikes2_inventory_control.name</sys_name>
+        <sys_package display_value="mikes2" source="x_snc_mikes2">4845099c5bd8c2105064728df7b8dc6e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="mikes2">4845099c5bd8c2105064728df7b8dc6e</sys_scope>
+        <sys_update_name>sys_search_facet_6045499ccdd8c210f805cf10cc814f88</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-07 14:25:19</sys_updated_on>
+        <type/>
+    </sys_search_facet>
+</record_update>

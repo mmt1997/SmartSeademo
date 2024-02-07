@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_template">
+    <sys_uib_template action="INSERT_OR_UPDATE">
+        <associated_types>f198e5625311101017caddeeff7b120d,d5d732935301101017caddeeff7b12b3</associated_types>
+        <description/>
+        <image display_value="ui-builder-templates-left-and-right-sidebar.svg">b57f0e0877311010d99bbc3f681061c9</image>
+        <label>Portal Centered Column with Sidebars</label>
+        <macroponent/>
+        <macroponent_config/>
+        <optional_properties/>
+        <order>0</order>
+        <required_properties/>
+        <sys_class_name>sys_uib_template</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-07 14:24:45</sys_created_on>
+        <sys_id>5045499ca6d8c2103511a3703972d70c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Portal Centered Column with Sidebars</sys_name>
+        <sys_package display_value="mikes2" source="x_snc_mikes2">4845099c5bd8c2105064728df7b8dc6e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="mikes2">4845099c5bd8c2105064728df7b8dc6e</sys_scope>
+        <sys_update_name>sys_uib_template_5045499ca6d8c2103511a3703972d70c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-07 14:24:45</sys_updated_on>
+        <template_categories/>
+        <type/>
+    </sys_uib_template>
+</record_update>

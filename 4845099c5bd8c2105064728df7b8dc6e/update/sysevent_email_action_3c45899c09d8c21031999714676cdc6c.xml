@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sysevent_email_action">
+    <sysevent_email_action action="INSERT_OR_UPDATE">
+        <action_insert>false</action_insert>
+        <action_update>true</action_update>
+        <active>true</active>
+        <advanced_condition/>
+        <affected_field_on_event/>
+        <category display_value="x_snc_mikes2 - Inventory Tr" name="x_snc_mikes2 - Inventory Tr">3c45899cd5d8c21060a0fb900282a76f</category>
+        <collection>x_snc_mikes2_inventory_request</collection>
+        <condition table="x_snc_mikes2_inventory_request">request_statusCHANGESTOapproved^EQ<item display_value="Approved" endquery="false" field="request_status" goto="false" newquery="false" operator="CHANGESTO" or="false" value="approved"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <content_type>text/html</content_type>
+        <default_interval/>
+        <description/>
+        <digest_from/>
+        <digest_html><![CDATA[<p><strong>${requested_item.stock_location.inventory_manager.name} </strong>approved an item request for&nbsp; ${requested_item.name} ${mail_script:x_snc_mikes2.requestlink_mg}<br /></p>]]></digest_html>
+        <digest_reply_to/>
+        <digest_separator_html><![CDATA[<p><br /></p>
+<hr />
+<p><br /></p>]]></digest_separator_html>
+        <digest_separator_text><![CDATA[\n--------------------------------------------------------------------------------\n]]></digest_separator_text>
+        <digest_subject>Item update : Request {number} Denied</digest_subject>
+        <digest_template display_value="Inventory Tracker Digest - Notifications">f045899c52d8c210e0cd4e0add7d3f6f</digest_template>
+        <digest_text/>
+        <digestable>true</digestable>
+        <enable_dynamic_translation>false</enable_dynamic_translation>
+        <event_name>activate.life.cycle.migration</event_name>
+        <event_parm_1>false</event_parm_1>
+        <event_parm_2>false</event_parm_2>
+        <exclude_delegates>false</exclude_delegates>
+        <force_delivery>false</force_delivery>
+        <from/>
+        <generation_type>triggered</generation_type>
+        <importance/>
+        <include_attachments>false</include_attachments>
+        <item>event.parm1</item>
+        <item_table/>
+        <mandatory>false</mandatory>
+        <message/>
+        <message_html><![CDATA[<p style="text-align: center;"><span style="font-size: 14pt;"><span style="font-size: 10pt;">${mail_script:x_snc_mikes2.critical_img}</span></span></p>
+<p style="text-align: center;"><span style="font-size: 14pt;"><strong>${requested_item.stock_location.inventory_manager.name}</strong> denied an item request ${mail_script:x_snc_mikes2.requestlink_mg}</span></p>
+<p style="text-align: center;"><span style="font-size: 10pt;"><strong>Item requested</strong></span></p>
+<p style="text-align: center;"><span style="font-size: 10pt;">${requested_item.name}</span><br /></p>
+<p style="text-align: center;"><span style="font-size: 10pt;"><strong>Stock location</strong></span></p>
+<p style="text-align: center;"><span style="font-size: 10pt;">${stock_location.name}</span><br /></p>
+<p><br /></p>
+<p style="text-align: center;"><span style="font-size: 10pt;"><strong>${mail_script:x_snc_mikes2.request_view_details}</strong></span></p>]]></message_html>
+        <message_list/>
+        <message_text/>
+        <name>Request Denied - Admin</name>
+        <omit_watermark>false</omit_watermark>
+        <order>100</order>
+        <push_message_only>false</push_message_only>
+        <recipient_fields>stock_location.updated_by</recipient_fields>
+        <recipient_groups/>
+        <recipient_users/>
+        <reply_to/>
+        <send_self>true</send_self>
+        <sms_alternate/>
+        <style/>
+        <subject>Item updates : Request denied ${number}</subject>
+        <subscribable>false</subscribable>
+        <sys_class_name>sysevent_email_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-07 14:25:02</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>3c45899c09d8c21031999714676cdc6c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Request Denied - Admin</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="mikes2" source="x_snc_mikes2">4845099c5bd8c2105064728df7b8dc6e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="mikes2">4845099c5bd8c2105064728df7b8dc6e</sys_scope>
+        <sys_update_name>sysevent_email_action_3c45899c09d8c21031999714676cdc6c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-07 14:25:02</sys_updated_on>
+        <sys_version>2</sys_version>
+        <template display_value="Inventory Tracker - Notifications">fc45899c50d8c210aa5b2813578bef6f</template>
+        <type>email</type>
+        <weight>0</weight>
+    </sysevent_email_action>
+</record_update>

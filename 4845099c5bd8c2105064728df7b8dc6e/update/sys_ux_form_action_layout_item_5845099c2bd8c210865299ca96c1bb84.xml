@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_form_action_layout_item">
+    <sys_ux_form_action_layout_item action="INSERT_OR_UPDATE">
+        <action display_value="Approve Request">9c45099cbcd8c21043830c13e1359285</action>
+        <active>true</active>
+        <color/>
+        <description/>
+        <item_type>action</item_type>
+        <label>Approve</label>
+        <layout_group/>
+        <name>Approve Request</name>
+        <order>100</order>
+        <overflow>false</overflow>
+        <sys_class_name>sys_ux_form_action_layout_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-07 14:24:38</sys_created_on>
+        <sys_id>5845099c2bd8c210865299ca96c1bb84</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Approve</sys_name>
+        <sys_package display_value="mikes2" source="x_snc_mikes2">4845099c5bd8c2105064728df7b8dc6e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="mikes2">4845099c5bd8c2105064728df7b8dc6e</sys_scope>
+        <sys_update_name>sys_ux_form_action_layout_item_5845099c2bd8c210865299ca96c1bb84</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-07 14:24:38</sys_updated_on>
+        <table>x_snc_mikes2_inventory_request</table>
+    </sys_ux_form_action_layout_item>
+</record_update>

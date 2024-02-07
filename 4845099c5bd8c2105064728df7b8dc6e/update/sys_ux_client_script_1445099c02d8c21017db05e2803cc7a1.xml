@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <controller_preset/>
+        <includes/>
+        <macroponent display_value="Login">d845099cb5d8c210e651473a56ed47a0</macroponent>
+        <name>Show alert on logout</name>
+        <preset/>
+        <required_translations>[ {
+  "code" : null,
+  "message" : "You are now logged out of your session",
+  "comment" : ""
+} ]</required_translations>
+        <script><![CDATA[/**
+ * @param {params} params
+ * @param {api} params.api
+ * @param {any} params.event
+ * @param {any} params.imports
+ */
+function handler({
+    api,
+    event,
+    helpers,
+    imports
+}) {
+    if (api.context.props.logout == 'true') {
+        helpers.translate('You are now logged out of your session').then((message) => {
+            api.emit("NOW_UXF_PAGE#ADD_NOTIFICATIONS", {
+                items: [{
+                    id: "alert1",
+                    status: "info",
+                    icon: "circle-check-outline",
+                    header: "",
+                    content: {
+                        type: "html",
+                        value: `<span>${message}</span>`,
+                    },
+                    action: {
+                        type: "dismiss"
+                    },
+                }],
+            });
+        });
+    }
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-07 14:25:17</sys_created_on>
+        <sys_id>1445099c02d8c21017db05e2803cc7a1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Show alert on logout</sys_name>
+        <sys_package display_value="mikes2" source="x_snc_mikes2">4845099c5bd8c2105064728df7b8dc6e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="mikes2">4845099c5bd8c2105064728df7b8dc6e</sys_scope>
+        <sys_update_name>sys_ux_client_script_1445099c02d8c21017db05e2803cc7a1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-07 14:25:17</sys_updated_on>
+        <target/>
+        <type/>
+    </sys_ux_client_script>
+</record_update>

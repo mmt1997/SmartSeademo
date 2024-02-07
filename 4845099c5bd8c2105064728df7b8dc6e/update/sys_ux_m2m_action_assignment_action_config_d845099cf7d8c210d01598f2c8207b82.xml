@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_m2m_action_assignment_action_config">
+    <sys_ux_m2m_action_assignment_action_config action="INSERT_OR_UPDATE">
+        <action_assignment display_value="deny_request">f045899cdbd8c2105b49b8925918db4f</action_assignment>
+        <action_configuration display_value="Inventory Tracker Workspace DA">9045099c37d8c2102a8bebaad21ce1d9</action_configuration>
+        <sys_class_name>sys_ux_m2m_action_assignment_action_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-07 14:25:16</sys_created_on>
+        <sys_id>d845099cf7d8c210d01598f2c8207b82</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="mikes2" source="x_snc_mikes2">4845099c5bd8c2105064728df7b8dc6e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="mikes2">4845099c5bd8c2105064728df7b8dc6e</sys_scope>
+        <sys_update_name>sys_ux_m2m_action_assignment_action_config_d845099cf7d8c210d01598f2c8207b82</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-07 14:25:16</sys_updated_on>
+    </sys_ux_m2m_action_assignment_action_config>
+</record_update>

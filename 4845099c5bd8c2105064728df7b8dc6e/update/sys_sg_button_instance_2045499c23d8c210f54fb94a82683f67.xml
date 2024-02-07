@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Request item">2845499c4cd8c2106d7aa2d5d58f5f68</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon/>
+        <label>Request item</label>
+        <location>footer</location>
+        <name>Request item</name>
+        <order>10</order>
+        <parent>e045499ca1d8c2109f8ca69750c37c67</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-07 14:24:42</sys_created_on>
+        <sys_id>2045499c23d8c210f54fb94a82683f67</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Request item</sys_name>
+        <sys_package display_value="mikes2" source="x_snc_mikes2">4845099c5bd8c2105064728df7b8dc6e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="mikes2">4845099c5bd8c2105064728df7b8dc6e</sys_scope>
+        <sys_update_name>sys_sg_button_instance_2045499c23d8c210f54fb94a82683f67</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-07 14:24:42</sys_updated_on>
+        <table>x_snc_mikes2_inventory_control</table>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=2045499c23d8c210f54fb94a82683f67"/>
+</record_update>

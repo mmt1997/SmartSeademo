@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <controller_preset/>
+        <includes/>
+        <macroponent display_value="List">dc45099cc2d8c210d065711ea47b34c9</macroponent>
+        <name>List Modal</name>
+        <preset/>
+        <required_translations>[ ]</required_translations>
+        <script><![CDATA[function handler({
+        api,
+        event,
+        imports,
+        helpers
+    }) {
+    
+    const { name, payload: { route, fields, params, size = 'md' }} = event;
+    
+    if (name === 'LIST#CLOSE_MODAL')
+        helpers.modal.close();
+    
+    else if (name === 'LIST#OPEN_MODAL') {
+        if (!route)
+            return;
+            
+        api.setState('bare', true);
+        api.setState('displayOptions', { size: size });
+        api.setState('contents', {
+            route: route,
+            fields: fields,
+            params: params
+        });
+    }
+    
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-07 14:24:38</sys_created_on>
+        <sys_id>5445099c88d8c210b5638a6a7b3520a6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>List Modal</sys_name>
+        <sys_package display_value="mikes2" source="x_snc_mikes2">4845099c5bd8c2105064728df7b8dc6e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="mikes2">4845099c5bd8c2105064728df7b8dc6e</sys_scope>
+        <sys_update_name>sys_ux_client_script_5445099c88d8c210b5638a6a7b3520a6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-07 14:24:38</sys_updated_on>
+        <target/>
+        <type/>
+    </sys_ux_client_script>
+</record_update>

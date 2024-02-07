@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>Toolbar configuration for inventory tracker workspace, which contains links to navigate home page and list page.</description>
+        <name>chrome_toolbar</name>
+        <page display_value="mikes2 Workspace">f445899cc8d8c210db89721ea47ff886</page>
+        <required_translations>[{"message":"List","comment":""},{"message":"Home","comment":""}]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-07 14:25:05</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>5845099cc0d8c2108e0ceb086e617d81</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_toolbar</sys_name>
+        <sys_package display_value="mikes2" source="x_snc_mikes2">4845099c5bd8c2105064728df7b8dc6e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="mikes2">4845099c5bd8c2105064728df7b8dc6e</sys_scope>
+        <sys_update_name>sys_ux_page_property_5845099cc0d8c2108e0ceb086e617d81</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-07 14:25:05</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_snc_mikes2.f445899cc8d8c210db89721ea47ff886.root.chrome_toolbar</unique_name>
+        <value>[&#13;
+  {&#13;
+    "id": "home",&#13;
+    "label": {"translatable":true, "message":"Home"},&#13;
+    "icon": "home-outline",&#13;
+    "viewportInfo": {},&#13;
+    "routeInfo": {&#13;
+      "route": "home"&#13;
+    },&#13;
+    "group": "top",&#13;
+    "badge": {},&#13;
+    "presence": {},&#13;
+    "availability": {}&#13;
+  },&#13;
+  {&#13;
+    "id": "list",&#13;
+    "label": {"translatable":true, "message":"List"},&#13;
+    "icon": "list-outline",&#13;
+    "viewportInfo": {},&#13;
+    "routeInfo": {&#13;
+      "route": "list"&#13;
+    },&#13;
+    "group": "top",&#13;
+    "badge":{},&#13;
+    "presence": {},&#13;
+    "availability": {}&#13;
+  }&#13;
+]</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=5845099cc0d8c2108e0ceb086e617d81"/>
+</record_update>

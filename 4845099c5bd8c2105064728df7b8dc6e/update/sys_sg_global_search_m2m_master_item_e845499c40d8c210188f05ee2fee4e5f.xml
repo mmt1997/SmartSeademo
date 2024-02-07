@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_global_search_m2m_master_item">
+    <sys_sg_global_search_m2m_master_item action="INSERT_OR_UPDATE">
+        <global_search display_value="Home Search - Inventory Items">e845499c37d8c2108ccb178fa65e4f6b</global_search>
+        <master_item display_value="Browse Catalog Main Item">ec45499cc7d8c21096470ce87b24f95e</master_item>
+        <sys_class_name>sys_sg_global_search_m2m_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-07 14:25:13</sys_created_on>
+        <sys_id>e845499c40d8c210188f05ee2fee4e5f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="mikes2" source="x_snc_mikes2">4845099c5bd8c2105064728df7b8dc6e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="mikes2">4845099c5bd8c2105064728df7b8dc6e</sys_scope>
+        <sys_update_name>sys_sg_global_search_m2m_master_item_e845499c40d8c210188f05ee2fee4e5f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-07 14:25:13</sys_updated_on>
+    </sys_sg_global_search_m2m_master_item>
+</record_update>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>chrome_header</name>
+        <page display_value="mikes2 Portal">3c45899ce5d8c210a455c26b7f085b85</page>
+        <required_translations>[{"message":"My Requests","comment":""},{"message":"Logout","comment":""},{"message":"UserMenu","comment":""}]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-07 14:24:37</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>5845099ca7d8c210496e953c28924c7e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_header</sys_name>
+        <sys_package display_value="mikes2" source="x_snc_mikes2">4845099c5bd8c2105064728df7b8dc6e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="mikes2">4845099c5bd8c2105064728df7b8dc6e</sys_scope>
+        <sys_update_name>sys_ux_page_property_5845099ca7d8c210496e953c28924c7e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-07 14:24:37</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_snc_mikes2.3c45899ce5d8c210a455c26b7f085b85.root.chrome_header</unique_name>
+        <value>{&#13;
+    "privatePage": {&#13;
+        "userPrefsEnabled": true,&#13;
+        "searchEnabled": false,&#13;
+        "currentScreenLinkConfiguration": {&#13;
+            "roles": ["admin"],&#13;
+            "position": 250&#13;
+        },&#13;
+        "globalTools": {&#13;
+            "collapsingMenuId": 0,&#13;
+            "primaryItems": [&#13;
+                {&#13;
+                    "label": {"translatable":true, "message":"UserMenu"},&#13;
+                    "icon": "user",&#13;
+                    "type": "menu",&#13;
+                    "primaryDisplay": "icon",&#13;
+                    "value": {&#13;
+                        "children": [&#13;
+                            {&#13;
+                                "label": {"translatable":true, "message":"My Requests"},&#13;
+                                "position": 100,&#13;
+                                "type": "navigation",&#13;
+                                "value": {&#13;
+                                    "type": "internal",&#13;
+                                    "value": {&#13;
+                                      "href": "now/x_snc_mikes2-inventory-tracker/portal/all-requests"&#13;
+                                    }&#13;
+                                }&#13;
+                            },&#13;
+                            {&#13;
+                                "label": {"translatable":true, "message":"Logout"},&#13;
+                                "position": 200,&#13;
+                                "type": "navigation",&#13;
+                                "value": {&#13;
+                                    "type": "internal",&#13;
+                                    "value": {&#13;
+                                        "href": "now/x_snc_mikes2-inventory-tracker/portal/login/params/logout/true"&#13;
+                                    }&#13;
+                                }&#13;
+                            }&#13;
+                        ]&#13;
+                    }&#13;
+                }&#13;
+            ],&#13;
+            "secondaryItems": []&#13;
+        }&#13;
+    },&#13;
+    "publicPage": {&#13;
+        "menuEnabled": false,&#13;
+        "searchEnabled": false,&#13;
+        "userPrefsEnabled": false,&#13;
+        "logoRoute": {&#13;
+                "type":"route",&#13;
+                "value": {&#13;
+                    "route": "home",&#13;
+                    "fields": {}&#13;
+                }&#13;
+        },&#13;
+        "actionButtons": []&#13;
+    }&#13;
+}</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=5845099ca7d8c210496e953c28924c7e"/>
+</record_update>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Inventory Tracker Portal App Config Config">3445899c06d8c210c1b5af1bb5529885</app_config>
+        <description/>
+        <extension_point/>
+        <fields/>
+        <icon/>
+        <name>home Default - 3.0.0 preview. All available</name>
+        <optional_parameters/>
+        <order>0</order>
+        <parent_macroponent/>
+        <parent_macroponent_composition_element_id>tab_set_1</parent_macroponent_composition_element_id>
+        <route_type>all-available</route_type>
+        <screen_type display_value="All available">d045099cd8d8c210797ca9561a7a07ba</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-07 14:24:55</sys_created_on>
+        <sys_id>dc45099cdcd8c210b11783911292f4a8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>home Default - 3.0.0 preview. All available</sys_name>
+        <sys_package display_value="mikes2" source="x_snc_mikes2">4845099c5bd8c2105064728df7b8dc6e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="mikes2">4845099c5bd8c2105064728df7b8dc6e</sys_scope>
+        <sys_update_name>sys_ux_app_route_dc45099cdcd8c210b11783911292f4a8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-07 14:24:55</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=dc45099cdcd8c210b11783911292f4a8"/>
+</record_update>

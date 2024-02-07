@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysevent_register">
+    <sysevent_register action="INSERT_OR_UPDATE">
+        <caller_access/>
+        <derived_priority/>
+        <description>Sent email to employees and inventory manager about overdue items</description>
+        <event_name>x_snc_mikes2.inventory_overdue</event_name>
+        <fired_by>Sent email to employees and inventory manager about overdue items</fired_by>
+        <priority/>
+        <queue/>
+        <suffix>inventory_overdue</suffix>
+        <sys_class_name>sysevent_register</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-07 14:25:14</sys_created_on>
+        <sys_id>3c45899c72d8c210d471363c89fdac67</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_mikes2.inventory_overdue</sys_name>
+        <sys_package display_value="mikes2" source="x_snc_mikes2">4845099c5bd8c2105064728df7b8dc6e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="mikes2">4845099c5bd8c2105064728df7b8dc6e</sys_scope>
+        <sys_update_name>sysevent_register_3c45899c72d8c210d471363c89fdac67</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-07 14:25:14</sys_updated_on>
+        <table>x_snc_mikes2_inventory_request</table>
+    </sysevent_register>
+</record_update>

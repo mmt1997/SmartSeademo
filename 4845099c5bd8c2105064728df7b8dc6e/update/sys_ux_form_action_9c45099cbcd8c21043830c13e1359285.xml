@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_form_action">
+    <sys_ux_form_action action="INSERT_OR_UPDATE">
+        <action_type>ui_action</action_type>
+        <active>true</active>
+        <declarative_action/>
+        <description/>
+        <name>Approve Request</name>
+        <specificity>10</specificity>
+        <sys_class_name>sys_ux_form_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-07 14:24:37</sys_created_on>
+        <sys_id>9c45099cbcd8c21043830c13e1359285</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Approve Request</sys_name>
+        <sys_package display_value="mikes2" source="x_snc_mikes2">4845099c5bd8c2105064728df7b8dc6e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="mikes2">4845099c5bd8c2105064728df7b8dc6e</sys_scope>
+        <sys_update_name>sys_ux_form_action_9c45099cbcd8c21043830c13e1359285</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-07 14:24:37</sys_updated_on>
+        <table>x_snc_mikes2_inventory_request</table>
+        <ui_action display_value="Approve">1445499c2ad8c210b5b16cefe1049f0a</ui_action>
+    </sys_ux_form_action>
+    <sys_translated_text action="delete_multiple" query="documentkey=9c45099cbcd8c21043830c13e1359285"/>
+</record_update>

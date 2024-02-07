@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_datasource">
+    <sys_ux_composite_data_m2m_datasource action="INSERT_OR_UPDATE">
+        <dataset display_value="Inventory Tracker Portal">1c45099cfdd8c2102b6e4e831de4eb9c</dataset>
+        <datasource display_value="Genius Result Data Source">6d7939f1ffe31010968af5a1703bf153</datasource>
+        <sys_class_name>sys_ux_composite_data_m2m_datasource</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-07 14:24:39</sys_created_on>
+        <sys_id>dc45099c81d8c2105a3a28f7c417eb99</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="mikes2" source="x_snc_mikes2">4845099c5bd8c2105064728df7b8dc6e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="mikes2">4845099c5bd8c2105064728df7b8dc6e</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_datasource_dc45099c81d8c2105a3a28f7c417eb99</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-07 14:24:39</sys_updated_on>
+    </sys_ux_composite_data_m2m_datasource>
+</record_update>

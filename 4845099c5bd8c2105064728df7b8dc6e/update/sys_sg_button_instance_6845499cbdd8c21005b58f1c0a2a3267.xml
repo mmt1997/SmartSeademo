@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Cancel item request">6445499c73d8c21081ba3e5802513c68</button>
+        <color_theme>destructive</color_theme>
+        <description/>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon/>
+        <label>Cancel item request</label>
+        <location>footer</location>
+        <name>Cancel item request</name>
+        <order>10</order>
+        <parent>a445499ca2d8c2101684b8a474424d67</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-07 14:24:45</sys_created_on>
+        <sys_id>6845499cbdd8c21005b58f1c0a2a3267</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Cancel item request</sys_name>
+        <sys_package display_value="mikes2" source="x_snc_mikes2">4845099c5bd8c2105064728df7b8dc6e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="mikes2">4845099c5bd8c2105064728df7b8dc6e</sys_scope>
+        <sys_update_name>sys_sg_button_instance_6845499cbdd8c21005b58f1c0a2a3267</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-07 14:24:45</sys_updated_on>
+        <table>x_snc_mikes2_inventory_request</table>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=6845499cbdd8c21005b58f1c0a2a3267"/>
+</record_update>

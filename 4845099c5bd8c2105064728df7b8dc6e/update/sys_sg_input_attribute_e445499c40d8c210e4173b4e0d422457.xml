@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_input_attribute">
+    <sys_sg_input_attribute action="INSERT_OR_UPDATE">
+        <input display_value="Requested item">a445499cbdd8c2103f95e9184cfcbd58</input>
+        <name>SourceTable</name>
+        <sys_class_name>sys_sg_input_attribute</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-07 14:25:14</sys_created_on>
+        <sys_id>e445499c40d8c210e4173b4e0d422457</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SourceTable</sys_name>
+        <sys_package display_value="mikes2" source="x_snc_mikes2">4845099c5bd8c2105064728df7b8dc6e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="mikes2">4845099c5bd8c2105064728df7b8dc6e</sys_scope>
+        <sys_update_name>sys_sg_input_attribute_e445499c40d8c210e4173b4e0d422457</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-07 14:25:14</sys_updated_on>
+        <value>x_snc_inventory_0_inventory_request</value>
+    </sys_sg_input_attribute>
+</record_update>

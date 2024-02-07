@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_predicate_m2m_action_assignment">
+    <sys_ux_predicate_m2m_action_assignment action="INSERT_OR_UPDATE">
+        <declarative_action_assignment display_value="reject">7045899c6ad8c210ea3b1bd0d8b6ad4b</declarative_action_assignment>
+        <predicate display_value="My Tasks">1045099c4bd8c210a014256d9a170290</predicate>
+        <sys_class_name>sys_ux_predicate_m2m_action_assignment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-07 14:24:57</sys_created_on>
+        <sys_id>9445099cabd8c210d67cda5e1a7e007b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="mikes2" source="x_snc_mikes2">4845099c5bd8c2105064728df7b8dc6e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="mikes2">4845099c5bd8c2105064728df7b8dc6e</sys_scope>
+        <sys_update_name>sys_ux_predicate_m2m_action_assignment_9445099cabd8c210d67cda5e1a7e007b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-07 14:24:57</sys_updated_on>
+    </sys_ux_predicate_m2m_action_assignment>
+</record_update>

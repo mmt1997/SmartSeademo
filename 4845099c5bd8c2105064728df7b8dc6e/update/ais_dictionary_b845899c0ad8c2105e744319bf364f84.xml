@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_dictionary">
+    <ais_dictionary action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <auto_refresh>24</auto_refresh>
+        <blocked_field/>
+        <case_sensitive>false</case_sensitive>
+        <data_source>x_snc_mikes2_inventory_control</data_source>
+        <derived>true</derived>
+        <field/>
+        <label>Inventory Search 2 Default Spell Check Dictionary</label>
+        <last_derived>2021-05-25 01:18:23</last_derived>
+        <locale>en</locale>
+        <name>x_snc_mikes2_inventory_search_2_default_</name>
+        <publish_id>43cac7bb-92e0-490a-bfe9-94a342759cb6</publish_id>
+        <punctuation_sensitive>false</punctuation_sensitive>
+        <state>PUBLISHED</state>
+        <sys_class_name>ais_dictionary</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-07 14:24:39</sys_created_on>
+        <sys_id>b845899c0ad8c2105e744319bf364f84</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_mikes2_inventory_search_2_default_</sys_name>
+        <sys_package display_value="mikes2" source="x_snc_mikes2">4845099c5bd8c2105064728df7b8dc6e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="mikes2">4845099c5bd8c2105064728df7b8dc6e</sys_scope>
+        <sys_update_name>ais_dictionary_b845899c0ad8c2105e744319bf364f84</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-07 14:24:39</sys_updated_on>
+        <type>SPELLCHECK</type>
+    </ais_dictionary>
+</record_update>

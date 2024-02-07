@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="db_image">
+    <db_image action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category>general</category>
+        <format/>
+        <height/>
+        <image>3045899c8fd8c2107acfaa9c3b02207e</image>
+        <name>x_snc_mikes2.inventory-critical.svg</name>
+        <size_bytes>1103</size_bytes>
+        <sys_class_name>db_image</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-07 14:25:18</sys_created_on>
+        <sys_id>b445899cdbd8c2100e363f8fd5ed397e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_mikes2.inventory-critical.svg</sys_name>
+        <sys_package display_value="mikes2" source="x_snc_mikes2">4845099c5bd8c2105064728df7b8dc6e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="mikes2">4845099c5bd8c2105064728df7b8dc6e</sys_scope>
+        <sys_update_name>db_image_b445899cdbd8c2100e363f8fd5ed397e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-07 14:25:18</sys_updated_on>
+        <thumbnail/>
+        <width/>
+    </db_image>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/svg+xml</content_type>
+        <file_name>image</file_name>
+        <hash>4d0f7bd54a566346031f58161203ccfb5a34f7ed7361d5fed61c01e9223447a2</hash>
+        <image_height/>
+        <image_width/>
+        <size_bytes>1103</size_bytes>
+        <size_compressed>580</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-07 14:25:18</sys_created_on>
+        <sys_id>3045899c8fd8c2107acfaa9c3b02207e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-07 14:25:18</sys_updated_on>
+        <table_name>ZZ_YYdb_image</table_name>
+        <table_sys_id>b445899cdbd8c2100e363f8fd5ed397e</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="image" sys_id="3045899c8fd8c2107acfaa9c3b02207e">3045899c8fd8c2107acfaa9c3b02207e</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-07 14:25:18</sys_created_on>
+        <sys_id>b045899c43d8c210e59606fd2503d57f</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>bVPLbpwwFN3nK66cTSINYJuXiWAiFalRpc4q7SY7xDhgxcHIeB7pR/QXuu3n9RNqDMxMogDi3uP78LnHkN8fXyXsuR6E6gpEfIyAd7Xaiq4p0M8fXz2G7tdX+bBv4CC2pi1QSPsjgpaLpjUL2gt++KKOBcKAIaT2QZdNCQK7TTcUqDWmvwuCw+HgH0Jf6SagGOPAtp9T7o5SdC+fJZIsywIXResrsFduhJF8XWphRF3JPJjwFNvy52FyHXwW0nANYlugyfUIOoenFF4qqfSmMlocQVjij2qna/6gq74VNQLz1vMCvbq4Ha+SOz5ME7vbT1kUkgjOCzSMafZugZA0iWdotXYXYLTOg3e7XxAPJrrzVMF5rLxx0yzTIxiMVi+WYKc6viBvPjN7ALaPXIKj7+mdtNl8zzu13V6IMTd+NJXZDd63WnVeqfo3j7o6y6VAOy1vrhcdbz8K2YDRVTc8K/1aIOfKyvAbPM+7Am9xb5Hb6kGrXb8wvC5ZWIbJO5KW9S+u1YeNLsiOLIegFrqW3KtbXr+Muskg8o7ykypX2VemBVu7IcmKQEkjn7II48yCkKxSPyVxluEsGRFJoLTmlAPn7JCAbWDf5bnELV5kTw3GpoxiFhMWQurHUYojkrGV/T9STNMkDIHEfsISwkZKVqOQkpQx+O4YPsGGpCtKLYxPJrImPRk6JzEXnN4UT7HJMHiaNP/35/dfz31y49c3avGJuEHz4WgvF07AOfn4D6//A2ujiAxPBAAA</data>
+        <length>760</length>
+        <position>1</position>
+        <sys_attachment display_value="image" sys_id="3045899c8fd8c2107acfaa9c3b02207e">3045899c8fd8c2107acfaa9c3b02207e</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-07 14:25:18</sys_created_on>
+        <sys_id>f045899c86d8c21046276065d9cf117e</sys_id>
+    </sys_attachment_doc>
+</record_update>
