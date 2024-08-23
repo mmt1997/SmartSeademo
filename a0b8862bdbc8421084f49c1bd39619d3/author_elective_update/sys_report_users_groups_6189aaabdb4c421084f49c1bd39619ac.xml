@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups">
+    <sys_report_users_groups action="DELETE">
+        <group_id/>
+        <report_id display_value="">a589aaabdb4c421084f49c1bd39619ab</report_id>
+        <sys_class_name>sys_report_users_groups</sys_class_name>
+        <sys_created_by>Columbia.admin</sys_created_by>
+        <sys_created_on>2024-02-05 13:47:04</sys_created_on>
+        <sys_id>6189aaabdb4c421084f49c1bd39619ac</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>a589aaabdb4c421084f49c1bd39619ab</sys_name>
+        <sys_package display_value="Ship Registry" source="x_snc_ship_registr">a0b8862bdbc8421084f49c1bd39619d3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Ship Registry">a0b8862bdbc8421084f49c1bd39619d3</sys_scope>
+        <sys_update_name>sys_report_users_groups_6189aaabdb4c421084f49c1bd39619ac</sys_update_name>
+        <sys_updated_by>Columbia.admin</sys_updated_by>
+        <sys_updated_on>2024-02-05 13:47:04</sys_updated_on>
+        <user_id display_value="">f85b1faadb08821084f49c1bd39619df</user_id>
+    </sys_report_users_groups>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Ship Registry">a0b8862bdbc8421084f49c1bd39619d3</application>
+        <file_path/>
+        <instance_id>e8b29938db3771d492f5684e1396192f</instance_id>
+        <instance_name>smartseademo</instance_name>
+        <name>sys_report_users_groups_6189aaabdb4c421084f49c1bd39619ac</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups"><sys_report_users_groups action="INSERT_OR_UPDATE"><group_id/><report_id display_value="">a589aaabdb4c421084f49c1bd39619ab</report_id><sys_class_name>sys_report_users_groups</sys_class_name><sys_created_by>Columbia.admin</sys_created_by><sys_created_on>2024-02-05 13:47:04</sys_created_on><sys_id>6189aaabdb4c421084f49c1bd39619ac</sys_id><sys_mod_count>0</sys_mod_count><sys_name>a589aaabdb4c421084f49c1bd39619ab</sys_name><sys_package display_value="Ship Registry" source="x_snc_ship_registr">a0b8862bdbc8421084f49c1bd39619d3</sys_package><sys_policy/><sys_scope display_value="Ship Registry">a0b8862bdbc8421084f49c1bd39619d3</sys_scope><sys_update_name>sys_report_users_groups_6189aaabdb4c421084f49c1bd39619ac</sys_update_name><sys_updated_by>Columbia.admin</sys_updated_by><sys_updated_on>2024-02-05 13:47:04</sys_updated_on><user_id display_value="">f85b1faadb08821084f49c1bd39619df</user_id></sys_report_users_groups></record_update>]]></payload>
+        <payload_hash>-1903313905</payload_hash>
+        <record_name>a589aaabdb4c421084f49c1bd39619ab</record_name>
+        <reverted_from/>
+        <source>e0b8862bdbc8421084f49c1bd39619d7</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Columbia.admin</sys_created_by>
+        <sys_created_on>2024-02-05 13:47:04</sys_created_on>
+        <sys_id>ed89aaabdb4c421084f49c1bd39619ae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18d7985bf290000001</sys_recorded_at>
+        <sys_updated_by>Columbia.admin</sys_updated_by>
+        <sys_updated_on>2024-02-05 13:47:04</sys_updated_on>
+        <type>Report Users and Groups</type>
+        <update_guid>a189aaabf84c4210c8b9ef696c3c7fae</update_guid>
+        <update_guid_history>a189aaabf84c4210c8b9ef696c3c7fae:-1903313905</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-05 13:47:30</sys_created_on>
+        <sys_db_object display_value="" name="sys_report_users_groups">sys_report_users_groups</sys_db_object>
+        <sys_id>17f8d795159b497f91272cf100a2e509</sys_id>
+        <sys_metadata>6189aaabdb4c421084f49c1bd39619ac</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>a589aaabdb4c421084f49c1bd39619ab</sys_name>
+        <sys_package display_value="Ship Registry" source="x_snc_ship_registr">a0b8862bdbc8421084f49c1bd39619d3</sys_package>
+        <sys_parent display_value="Ships Flag">a589aaabdb4c421084f49c1bd39619ab</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Ship Registry">a0b8862bdbc8421084f49c1bd39619d3</sys_scope>
+        <sys_scope_delete display_value="">258a04265ecb41ab8b4f85612a6ff7f1</sys_scope_delete>
+        <sys_update_name>sys_report_users_groups_6189aaabdb4c421084f49c1bd39619ac</sys_update_name>
+        <sys_update_version display_value="sys_report_users_groups_6189aaabdb4c421084f49c1bd39619ac">ed89aaabdb4c421084f49c1bd39619ae</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-05 13:47:30</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
