@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>01feea23db8c421084f49c1bd3961978</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="62461f26db08821084f49c1bd3961985" table="x_snc_ship_registr_shipregistry">
+    <x_snc_ship_registr_shipregistry action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <boa_m>27.34</boa_m>
+        <call_sign>P3DP9</call_sign>
+        <captain/>
+        <cargo_cranes_swl_mt/>
+        <cargo_cranes_type/>
+        <cargo_cranesmaker/>
+        <country_of_build>South Korea</country_of_build>
+        <dw_m>37338</dw_m>
+        <flag>Cyprus</flag>
+        <former_names/>
+        <grt_rt/>
+        <imo_no>9208100</imo_no>
+        <loa_m>182.55</loa_m>
+        <me_maker>MAN (Hyuindai)</me_maker>
+        <me_type>6S50 MC-C MK7</me_type>
+        <mmsi>209902000</mmsi>
+        <name>Baltic Captain I</name>
+        <no_of_cargo_cranes/>
+        <nrt_rt/>
+        <port_of_registry>Limassol</port_of_registry>
+        <power_kw>9563</power_kw>
+        <sys_created_by>Columbia.admin</sys_created_by>
+        <sys_created_on>2024-02-05 14:11:08</sys_created_on>
+        <sys_domain>62461f26db08821084f49c1bd3961985</sys_domain>
+        <sys_domain_path>!!!/!!#/</sys_domain_path>
+        <sys_id>01feea23db8c421084f49c1bd3961978</sys_id>
+        <sys_mod_count>12</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-05 14:28:53</sys_updated_on>
+        <url/>
+        <vessel_type>Oil/Chemical Tanker</vessel_type>
+        <year_of_build>2000</year_of_build>
+    </x_snc_ship_registr_shipregistry>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-13 17:46:45</sys_created_on>
+        <sys_id>d133ce67dbf04e1084f49c1bd396196e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Baltic Captain I</sys_name>
+        <sys_package display_value="Ship Registry" source="x_snc_ship_registr">a0b8862bdbc8421084f49c1bd39619d3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Ship Registry">a0b8862bdbc8421084f49c1bd39619d3</sys_scope>
+        <sys_update_name>sys_metadata_link_d133ce67dbf04e1084f49c1bd396196e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-13 17:46:45</sys_updated_on>
+        <tablename>x_snc_ship_registr_shipregistry</tablename>
+    </sys_metadata_link>
+</record_update>

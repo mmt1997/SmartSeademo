@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>335cf704db50061084f49c1bd396194f</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="3bc69366db08821084f49c1bd396196f" table="x_snc_ship_registr_shipregistry">
+    <x_snc_ship_registr_shipregistry action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <boa_m/>
+        <call_sign/>
+        <captain/>
+        <cargo_cranes_swl_mt/>
+        <cargo_cranes_type/>
+        <cargo_cranesmaker/>
+        <country_of_build>South Korea</country_of_build>
+        <dw_m/>
+        <flag>Cyprus</flag>
+        <former_names/>
+        <grt_rt/>
+        <imo_no>1515512</imo_no>
+        <loa_m/>
+        <me_maker>MAN (Hyuindai)</me_maker>
+        <me_type/>
+        <mmsi>2626622</mmsi>
+        <name>Cyprus MV 1</name>
+        <no_of_cargo_cranes/>
+        <nrt_rt/>
+        <port_of_registry>Limassol</port_of_registry>
+        <power_kw/>
+        <sys_created_by>Columbia.user</sys_created_by>
+        <sys_created_on>2024-02-07 09:06:40</sys_created_on>
+        <sys_domain>3bc69366db08821084f49c1bd396196f</sys_domain>
+        <sys_domain_path>!!!/!!#/!!#/</sys_domain_path>
+        <sys_id>335cf704db50061084f49c1bd396194f</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>Columbia.user</sys_updated_by>
+        <sys_updated_on>2024-02-07 09:10:27</sys_updated_on>
+        <url/>
+        <vessel_type>Cargo </vessel_type>
+        <year_of_build>2001</year_of_build>
+    </x_snc_ship_registr_shipregistry>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-13 17:46:46</sys_created_on>
+        <sys_id>d13346a7dbf04e1084f49c1bd3961926</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Cyprus MV 1</sys_name>
+        <sys_package display_value="Ship Registry" source="x_snc_ship_registr">a0b8862bdbc8421084f49c1bd39619d3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Ship Registry">a0b8862bdbc8421084f49c1bd39619d3</sys_scope>
+        <sys_update_name>sys_metadata_link_d13346a7dbf04e1084f49c1bd3961926</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-13 17:46:46</sys_updated_on>
+        <tablename>x_snc_ship_registr_shipregistry</tablename>
+    </sys_metadata_link>
+</record_update>

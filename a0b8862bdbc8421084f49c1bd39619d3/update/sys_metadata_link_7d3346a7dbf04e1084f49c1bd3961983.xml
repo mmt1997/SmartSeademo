@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>afdc3f04db50061084f49c1bd39619ff</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="7f7ba3afdb40821084f49c1bd3961935" table="x_snc_ship_registr_shipregistry">
+    <x_snc_ship_registr_shipregistry action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <boa_m/>
+        <call_sign>hhv878</call_sign>
+        <captain/>
+        <cargo_cranes_swl_mt/>
+        <cargo_cranes_type/>
+        <cargo_cranesmaker/>
+        <country_of_build>South Korea</country_of_build>
+        <dw_m/>
+        <flag>Singapore</flag>
+        <former_names/>
+        <grt_rt/>
+        <imo_no>77272</imo_no>
+        <loa_m/>
+        <me_maker/>
+        <me_type/>
+        <mmsi>747738</mmsi>
+        <name>Davao MV </name>
+        <no_of_cargo_cranes/>
+        <nrt_rt/>
+        <port_of_registry>Singapore</port_of_registry>
+        <power_kw/>
+        <sys_created_by>Columbia.user</sys_created_by>
+        <sys_created_on>2024-02-07 09:09:58</sys_created_on>
+        <sys_domain>7f7ba3afdb40821084f49c1bd3961935</sys_domain>
+        <sys_domain_path>!!!/!!#/!!$/</sys_domain_path>
+        <sys_id>afdc3f04db50061084f49c1bd39619ff</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>Columbia.user</sys_updated_by>
+        <sys_updated_on>2024-02-07 09:10:55</sys_updated_on>
+        <url/>
+        <vessel_type>Oil Tanker</vessel_type>
+        <year_of_build>1990</year_of_build>
+    </x_snc_ship_registr_shipregistry>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-13 17:46:48</sys_created_on>
+        <sys_id>7d3346a7dbf04e1084f49c1bd3961983</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Davao MV </sys_name>
+        <sys_package display_value="Ship Registry" source="x_snc_ship_registr">a0b8862bdbc8421084f49c1bd39619d3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Ship Registry">a0b8862bdbc8421084f49c1bd39619d3</sys_scope>
+        <sys_update_name>sys_metadata_link_7d3346a7dbf04e1084f49c1bd3961983</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-13 17:46:48</sys_updated_on>
+        <tablename>x_snc_ship_registr_shipregistry</tablename>
+    </sys_metadata_link>
+</record_update>

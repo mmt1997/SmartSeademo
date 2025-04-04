@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Basic Information" section_id="37ff70d41b94c6104c38ec25bd4bcb66" sys_domain="a086dbe2db08821084f49c1bd3961970" table="x_snc_ship_registr_shipregistry" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-07 14:01:28</sys_created_on>
+            <sys_id>fbff70d41b94c6104c38ec25bd4bcb7c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Basic Information" display_value="Basic Information" name="x_snc_ship_registr_shipregistry" sys_domain="a086dbe2db08821084f49c1bd3961970" view="Default view">37ff70d41b94c6104c38ec25bd4bcb66</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-07 14:01:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>vessel_type</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-07 14:01:28</sys_created_on>
+            <sys_id>ffff70d41b94c6104c38ec25bd4bcb7c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Basic Information" display_value="Basic Information" name="x_snc_ship_registr_shipregistry" sys_domain="a086dbe2db08821084f49c1bd3961970" view="Default view">37ff70d41b94c6104c38ec25bd4bcb66</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-07 14:01:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>call_sign</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-07 14:01:28</sys_created_on>
+            <sys_id>73ff70d41b94c6104c38ec25bd4bcb7d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Basic Information" display_value="Basic Information" name="x_snc_ship_registr_shipregistry" sys_domain="a086dbe2db08821084f49c1bd3961970" view="Default view">37ff70d41b94c6104c38ec25bd4bcb66</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-07 14:01:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-07 14:01:28</sys_created_on>
+            <sys_id>c00041d41b94c6104c38ec25bd4bcb7d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Basic Information" display_value="Basic Information" name="x_snc_ship_registr_shipregistry" sys_domain="a086dbe2db08821084f49c1bd3961970" view="Default view">37ff70d41b94c6104c38ec25bd4bcb66</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-07 14:01:28</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>mmsi</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-07 14:01:28</sys_created_on>
+            <sys_id>440041d41b94c6104c38ec25bd4bcb7d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Basic Information" display_value="Basic Information" name="x_snc_ship_registr_shipregistry" sys_domain="a086dbe2db08821084f49c1bd3961970" view="Default view">37ff70d41b94c6104c38ec25bd4bcb66</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-07 14:01:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>imo_no</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-07 14:01:28</sys_created_on>
+            <sys_id>c40041d41b94c6104c38ec25bd4bcb7d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Basic Information" display_value="Basic Information" name="x_snc_ship_registr_shipregistry" sys_domain="a086dbe2db08821084f49c1bd3961970" view="Default view">37ff70d41b94c6104c38ec25bd4bcb66</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-07 14:01:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>former_names</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-07 14:01:28</sys_created_on>
+            <sys_id>480041d41b94c6104c38ec25bd4bcb7d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Basic Information" display_value="Basic Information" name="x_snc_ship_registr_shipregistry" sys_domain="a086dbe2db08821084f49c1bd3961970" view="Default view">37ff70d41b94c6104c38ec25bd4bcb66</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-07 14:01:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>captain</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-07 14:01:28</sys_created_on>
+            <sys_id>c80041d41b94c6104c38ec25bd4bcb7d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Basic Information" display_value="Basic Information" name="x_snc_ship_registr_shipregistry" sys_domain="a086dbe2db08821084f49c1bd3961970" view="Default view">37ff70d41b94c6104c38ec25bd4bcb66</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-07 14:01:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Basic Information</caption>
+            <header>false</header>
+            <name>x_snc_ship_registr_shipregistry</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-07 14:01:27</sys_created_on>
+            <sys_domain>a086dbe2db08821084f49c1bd3961970</sys_domain>
+            <sys_domain_path>!!!/!!$/</sys_domain_path>
+            <sys_id>37ff70d41b94c6104c38ec25bd4bcb66</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_ship_registr_shipregistry</sys_name>
+            <sys_overrides caption="Basic Information" display_value="Basic Information" name="x_snc_ship_registr_shipregistry" sys_domain="774190f01f1310005a3637b8ec8b70ef" view="Default view">611dc26fdbc8421084f49c1bd39619d5</sys_overrides>
+            <sys_package display_value="Ship Registry" source="x_snc_ship_registr">a0b8862bdbc8421084f49c1bd39619d3</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Ship Registry">a0b8862bdbc8421084f49c1bd39619d3</sys_scope>
+            <sys_update_name>sys_ui_section_37ff70d41b94c6104c38ec25bd4bcb66</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-07 14:01:27</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

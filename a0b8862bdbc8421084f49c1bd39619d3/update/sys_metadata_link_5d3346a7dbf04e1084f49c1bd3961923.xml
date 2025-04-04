@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>303834dc1b54c6104c38ec25bd4bcb74</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="62461f26db08821084f49c1bd3961985" table="x_snc_ship_registr_shipregistry">
+    <x_snc_ship_registr_shipregistry action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <boa_m/>
+        <call_sign/>
+        <captain/>
+        <cargo_cranes_swl_mt/>
+        <cargo_cranes_type/>
+        <cargo_cranesmaker/>
+        <country_of_build/>
+        <dw_m/>
+        <flag/>
+        <former_names/>
+        <grt_rt/>
+        <imo_no/>
+        <loa_m/>
+        <me_maker/>
+        <me_type/>
+        <mmsi/>
+        <name>new ship </name>
+        <no_of_cargo_cranes/>
+        <nrt_rt/>
+        <port_of_registry/>
+        <power_kw/>
+        <sys_created_by>Columbia.user</sys_created_by>
+        <sys_created_on>2024-02-07 13:27:40</sys_created_on>
+        <sys_domain>62461f26db08821084f49c1bd3961985</sys_domain>
+        <sys_domain_path>!!!/!!#/</sys_domain_path>
+        <sys_id>303834dc1b54c6104c38ec25bd4bcb74</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>Columbia.user</sys_updated_by>
+        <sys_updated_on>2024-02-07 13:27:40</sys_updated_on>
+        <url/>
+        <vessel_type>container ship</vessel_type>
+        <year_of_build/>
+    </x_snc_ship_registr_shipregistry>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-13 17:46:46</sys_created_on>
+        <sys_id>5d3346a7dbf04e1084f49c1bd3961923</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>new ship </sys_name>
+        <sys_package display_value="Ship Registry" source="x_snc_ship_registr">a0b8862bdbc8421084f49c1bd39619d3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Ship Registry">a0b8862bdbc8421084f49c1bd39619d3</sys_scope>
+        <sys_update_name>sys_metadata_link_5d3346a7dbf04e1084f49c1bd3961923</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-13 17:46:46</sys_updated_on>
+        <tablename>x_snc_ship_registr_shipregistry</tablename>
+    </sys_metadata_link>
+</record_update>
